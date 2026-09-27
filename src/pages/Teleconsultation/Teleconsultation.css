@@ -1,0 +1,547 @@
+/* =============================================
+   Teleconsultation & Auth — Premium Styles
+   ============================================= */
+
+/* ─── Page wrapper ─────────────────────────── */
+.tele-page {
+  min-height: 100vh;
+  padding: 96px var(--space-lg) var(--space-3xl);
+  position: relative;
+}
+
+.tele-container {
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+/* ─── Plans Grid ────────────────────────────── */
+.plans-section { margin-bottom: var(--space-4xl); }
+
+.plans-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: var(--space-lg);
+  max-width: 980px;
+  margin: 0 auto;
+}
+
+.plan-card {
+  padding: var(--space-xl) var(--space-xl) var(--space-lg);
+  border-radius: var(--radius-xl);
+  background: var(--color-bg-glass);
+  backdrop-filter: blur(var(--blur-md));
+  -webkit-backdrop-filter: blur(var(--blur-md));
+  border: 1px solid var(--color-border);
+  transition: all var(--transition-base);
+  position: relative;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  box-shadow: var(--shadow-card);
+}
+
+.plan-card:hover {
+  transform: translateY(-6px);
+  box-shadow: var(--shadow-lg);
+  border-color: var(--color-border-hover);
+}
+
+.plan-card.featured {
+  border-color: var(--color-border-accent);
+  box-shadow: var(--shadow-glow), var(--shadow-lg);
+  background: linear-gradient(160deg, rgba(6,182,212,0.08) 0%, rgba(139,92,246,0.06) 100%);
+}
+
+.plan-card.featured::before {
+  content: '';
+  position: absolute;
+  top: 0; left: 0; right: 0;
+  height: 3px;
+  background: var(--color-accent-gradient);
+}
+
+.plan-card.featured:hover {
+  box-shadow: var(--shadow-glow-accent), var(--shadow-xl);
+}
+
+.plan-popular-badge {
+  position: absolute;
+  top: 18px; right: 18px;
+  padding: 4px 14px;
+  border-radius: var(--radius-full);
+  background: var(--color-accent-gradient);
+  color: white;
+  font-size: 0.65rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  box-shadow: var(--shadow-glow);
+}
+
+.plan-name {
+  font-family: var(--font-display);
+  font-size: 1.1rem;
+  font-weight: 800;
+  margin-bottom: var(--space-md);
+  letter-spacing: -0.2px;
+}
+
+.plan-price {
+  font-family: var(--font-display);
+  font-size: 2.8rem;
+  font-weight: 900;
+  letter-spacing: -1.5px;
+  background: var(--color-accent-gradient);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  line-height: 1;
+  margin-bottom: var(--space-xs);
+}
+
+.plan-price-currency {
+  font-size: 1.1rem;
+  vertical-align: super;
+  -webkit-text-fill-color: var(--color-text-secondary);
+  color: var(--color-text-secondary);
+}
+
+.plan-period {
+  font-size: 0.8rem;
+  color: var(--color-text-muted);
+  margin-bottom: var(--space-xl);
+}
+
+.plan-features {
+  list-style: none;
+  margin-bottom: var(--space-xl);
+  flex-grow: 1;
+}
+
+.plan-features li {
+  padding: 9px 0;
+  font-size: 0.875rem;
+  color: var(--color-text-secondary);
+  display: flex;
+  align-items: center;
+  gap: var(--space-sm);
+  border-bottom: 1px solid rgba(148,163,184,0.04);
+}
+
+.plan-features li:last-child { border-bottom: none; }
+.plan-check { color: var(--color-success); flex-shrink: 0; }
+
+.plan-btn {
+  width: 100%;
+  padding: 13px;
+  border-radius: var(--radius-full);
+  font-weight: 700;
+  font-size: 0.9rem;
+  transition: all var(--transition-base);
+  cursor: pointer;
+  border: none;
+  letter-spacing: 0.2px;
+}
+
+.plan-btn-primary {
+  background: var(--color-accent-gradient);
+  color: white;
+  box-shadow: var(--shadow-glow);
+}
+
+.plan-btn-primary:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-glow-accent);
+}
+
+.plan-btn-secondary {
+  background: var(--color-bg-elevated);
+  color: var(--color-text-primary);
+  border: 1px solid var(--color-border);
+}
+
+.plan-btn-secondary:hover { border-color: var(--color-border-hover); background: var(--color-bg-card); }
+
+.plan-btn-current {
+  background: var(--color-success-bg);
+  color: var(--color-success);
+  cursor: default;
+  border: 1px solid rgba(16,185,129,0.2);
+}
+
+/* ─── Doctors ────────────────────────────────── */
+.doctors-section { margin-bottom: var(--space-3xl); }
+
+.doctors-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: var(--space-lg);
+}
+
+.doctor-card {
+  padding: var(--space-xl);
+  border-radius: var(--radius-lg);
+  background: var(--color-bg-glass);
+  backdrop-filter: blur(var(--blur-sm));
+  -webkit-backdrop-filter: blur(var(--blur-sm));
+  border: 1px solid var(--color-border);
+  transition: all var(--transition-base);
+  box-shadow: var(--shadow-card);
+  position: relative;
+  overflow: hidden;
+}
+
+.doctor-card::after {
+  content: '';
+  position: absolute;
+  bottom: 0; left: 0; right: 0;
+  height: 2px;
+  background: var(--color-accent-gradient);
+  transform: scaleX(0);
+  transition: transform var(--transition-base);
+}
+
+.doctor-card:hover {
+  border-color: var(--color-border-accent);
+  box-shadow: var(--shadow-glow), var(--shadow-lg);
+  transform: translateY(-4px);
+}
+
+.doctor-card:hover::after { transform: scaleX(1); }
+
+.doctor-avatar {
+  width: 68px; height: 68px;
+  border-radius: var(--radius-full);
+  background: var(--color-accent-gradient);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 30px;
+  margin-bottom: var(--space-md);
+  box-shadow: var(--shadow-glow);
+  border: 3px solid rgba(6,182,212,0.2);
+}
+
+.doctor-name {
+  font-family: var(--font-display);
+  font-size: 1.15rem;
+  font-weight: 800;
+  margin-bottom: 4px;
+  letter-spacing: -0.2px;
+}
+
+.doctor-spec {
+  font-size: 0.85rem;
+  color: var(--color-accent-primary);
+  margin-bottom: var(--space-sm);
+  font-weight: 600;
+}
+
+.doctor-info {
+  font-size: 0.84rem;
+  color: var(--color-text-secondary);
+  margin-bottom: var(--space-md);
+  line-height: 1.65;
+}
+
+.doctor-meta {
+  display: flex;
+  align-items: center;
+  gap: var(--space-sm);
+  margin-bottom: var(--space-md);
+  flex-wrap: wrap;
+}
+
+.doctor-meta-item {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  font-size: 0.78rem;
+  color: var(--color-text-muted);
+  padding: 4px 10px;
+  background: var(--color-bg-elevated);
+  border-radius: var(--radius-full);
+  border: 1px solid var(--color-border);
+}
+
+.doctor-fee {
+  font-family: var(--font-display);
+  font-size: 1.15rem;
+  font-weight: 800;
+  color: var(--color-success);
+  margin-bottom: var(--space-md);
+}
+
+.doctor-book-btn {
+  width: 100%;
+  padding: 11px;
+  border-radius: var(--radius-full);
+  background: var(--color-accent-gradient);
+  color: white;
+  font-weight: 700;
+  font-size: 0.9rem;
+  border: none;
+  cursor: pointer;
+  transition: all var(--transition-base);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  box-shadow: var(--shadow-glow);
+}
+
+.doctor-book-btn:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-glow-accent);
+}
+
+/* ─── Booking Modal ──────────────────────────── */
+.booking-modal-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.75);
+  backdrop-filter: blur(6px);
+  -webkit-backdrop-filter: blur(6px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: var(--z-modal);
+  padding: var(--space-md);
+}
+
+.booking-modal {
+  width: 100%;
+  max-width: 500px;
+  padding: var(--space-2xl);
+  border-radius: var(--radius-xl);
+  background: var(--color-bg-card);
+  border: 1px solid var(--color-border);
+  animation: scaleIn 0.25s ease-out;
+  box-shadow: var(--shadow-xl);
+  position: relative;
+}
+
+.booking-modal::before {
+  content: '';
+  position: absolute;
+  top: 0; left: 0; right: 0;
+  height: 3px;
+  background: var(--color-accent-gradient);
+  border-radius: var(--radius-xl) var(--radius-xl) 0 0;
+}
+
+.booking-modal h3 {
+  font-size: 1.25rem;
+  font-weight: 800;
+  letter-spacing: -0.3px;
+}
+
+.booking-field { margin-bottom: var(--space-md); }
+
+.booking-field label {
+  display: block;
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: var(--color-text-secondary);
+  margin-bottom: 7px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.booking-field input,
+.booking-field textarea,
+.booking-field select {
+  width: 100%;
+  padding: 12px 16px;
+  border-radius: var(--radius-md);
+  background: var(--color-bg-elevated);
+  border: 1px solid var(--color-border);
+  color: var(--color-text-primary);
+  font-size: 0.9rem;
+  transition: border-color var(--transition-fast), box-shadow var(--transition-fast);
+}
+
+.booking-field input:focus,
+.booking-field textarea:focus,
+.booking-field select:focus {
+  border-color: var(--color-accent-primary);
+  box-shadow: 0 0 0 3px rgba(6,182,212,0.1);
+  outline: none;
+}
+
+.booking-actions {
+  display: flex;
+  gap: var(--space-sm);
+  margin-top: var(--space-lg);
+}
+
+/* ─── My Consultations ───────────────────────── */
+.consultations-list { margin-top: var(--space-xl); }
+
+.consultation-item {
+  padding: var(--space-md) var(--space-lg);
+  border-radius: var(--radius-md);
+  background: var(--color-bg-glass);
+  backdrop-filter: blur(var(--blur-sm));
+  -webkit-backdrop-filter: blur(var(--blur-sm));
+  border: 1px solid var(--color-border);
+  margin-bottom: var(--space-sm);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: var(--space-sm);
+  transition: border-color var(--transition-fast);
+}
+
+.consultation-item:hover { border-color: var(--color-border-hover); }
+
+.consultation-status {
+  padding: 4px 12px;
+  border-radius: var(--radius-full);
+  font-size: 0.68rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.status-pending   { background: var(--color-warning-bg); color: var(--color-warning); }
+.status-confirmed { background: var(--color-info-bg);    color: var(--color-info);    }
+.status-completed { background: var(--color-success-bg); color: var(--color-success); }
+.status-cancelled { background: var(--color-danger-bg);  color: var(--color-danger);  }
+
+/* ─── Auth Forms ─────────────────────────────── */
+.auth-page {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: var(--space-xl);
+}
+
+.auth-card {
+  width: 100%;
+  max-width: 450px;
+  padding: var(--space-2xl);
+  border-radius: var(--radius-xl);
+  background: var(--color-bg-glass);
+  backdrop-filter: blur(var(--blur-lg));
+  -webkit-backdrop-filter: blur(var(--blur-lg));
+  border: 1px solid var(--color-border);
+  box-shadow: var(--shadow-xl);
+  position: relative;
+  overflow: hidden;
+}
+
+.auth-card::before {
+  content: '';
+  position: absolute;
+  top: 0; left: 0; right: 0;
+  height: 3px;
+  background: var(--color-accent-gradient);
+}
+
+.auth-logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--space-sm);
+  margin-bottom: var(--space-xl);
+}
+
+.auth-title {
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 800;
+  margin-bottom: var(--space-xl);
+  letter-spacing: -0.5px;
+}
+
+.auth-field { margin-bottom: var(--space-md); }
+
+.auth-field label {
+  display: block;
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: var(--color-text-secondary);
+  margin-bottom: 7px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.auth-field input {
+  width: 100%;
+  padding: 13px 18px;
+  border-radius: var(--radius-md);
+  background: var(--color-bg-elevated);
+  border: 1px solid var(--color-border);
+  color: var(--color-text-primary);
+  font-size: 0.95rem;
+  transition: border-color var(--transition-fast), box-shadow var(--transition-fast);
+}
+
+.auth-field input:focus {
+  border-color: var(--color-accent-primary);
+  box-shadow: 0 0 0 3px rgba(6,182,212,0.1);
+  outline: none;
+}
+
+.auth-btn {
+  width: 100%;
+  padding: 15px;
+  border-radius: var(--radius-full);
+  background: var(--color-accent-gradient);
+  color: white;
+  font-weight: 700;
+  font-size: 1rem;
+  border: none;
+  cursor: pointer;
+  transition: all var(--transition-base);
+  margin-top: var(--space-md);
+  box-shadow: var(--shadow-glow);
+  letter-spacing: 0.2px;
+}
+
+.auth-btn:hover:not(:disabled) {
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-glow-accent);
+}
+
+.auth-btn:disabled { opacity: 0.5; cursor: not-allowed; }
+
+.auth-switch {
+  text-align: center;
+  margin-top: var(--space-lg);
+  font-size: 0.875rem;
+  color: var(--color-text-secondary);
+}
+
+.auth-switch button {
+  color: var(--color-accent-primary);
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-weight: 600;
+  transition: color var(--transition-fast);
+}
+
+.auth-switch button:hover { color: var(--color-accent-primary-hover); }
+
+.auth-error {
+  padding: var(--space-sm) var(--space-md);
+  border-radius: var(--radius-md);
+  background: var(--color-danger-bg);
+  border: 1px solid rgba(239,68,68,0.2);
+  color: var(--color-danger);
+  font-size: 0.85rem;
+  margin-bottom: var(--space-md);
+  text-align: center;
+  font-weight: 500;
+}
+
+@media (max-width: 768px) {
+  .tele-page   { padding: 80px var(--space-md) var(--space-2xl); }
+  .plans-grid  { grid-template-columns: 1fr; }
+  .doctors-grid { grid-template-columns: 1fr; }
+  .booking-modal { padding: var(--space-xl); }
+}

@@ -1,0 +1,262 @@
+/* =============================================
+   Age Select — Onboarding Overlay
+   ============================================= */
+
+.age-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 9999;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  background: rgba(3, 7, 18, 0.85);
+  backdrop-filter: blur(18px);
+  -webkit-backdrop-filter: blur(18px);
+}
+
+.age-bg-radial {
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(ellipse 70% 60% at 50% 40%, rgba(6,182,212,0.12) 0%, transparent 70%),
+              radial-gradient(ellipse 50% 40% at 70% 70%, rgba(139,92,246,0.1) 0%, transparent 60%);
+  pointer-events: none;
+}
+
+.age-modal {
+  position: relative;
+  width: 100%;
+  max-width: 700px;
+  background: rgba(15, 23, 42, 0.95);
+  border: 1px solid rgba(148, 163, 184, 0.12);
+  border-radius: 24px;
+  padding: 40px 36px 32px;
+  box-shadow: 0 40px 80px rgba(0,0,0,0.6), 0 0 60px rgba(6,182,212,0.06);
+  overflow: hidden;
+}
+
+.age-modal::before {
+  content: '';
+  position: absolute;
+  top: 0; left: 0; right: 0;
+  height: 2px;
+  background: linear-gradient(90deg, transparent, #06b6d4, #8b5cf6, transparent);
+}
+
+/* ─── Header ──────────────────────────────── */
+.age-header {
+  text-align: center;
+  margin-bottom: 32px;
+}
+
+.age-logo {
+  font-size: 2.8rem;
+  margin-bottom: 12px;
+  display: block;
+  filter: drop-shadow(0 0 20px rgba(6,182,212,0.4));
+}
+
+.age-title {
+  font-size: 1.75rem;
+  font-weight: 800;
+  background: linear-gradient(135deg, #e2e8f0 0%, #06b6d4 60%, #8b5cf6 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  margin: 0 0 8px;
+  line-height: 1.2;
+}
+
+.age-subtitle {
+  color: rgba(148, 163, 184, 0.8);
+  font-size: 0.9rem;
+  margin: 0;
+  line-height: 1.5;
+}
+
+/* ─── Grid ────────────────────────────────── */
+.age-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  justify-content: center;
+  margin-bottom: 28px;
+}
+
+.age-card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 6px;
+  padding: 20px 16px 18px;
+  width: calc(20% - 12px);
+  min-width: 108px;
+  border-radius: 16px;
+  background: rgba(30, 41, 59, 0.7);
+  border: 1.5px solid rgba(148, 163, 184, 0.1);
+  cursor: pointer;
+  transition: all 0.2s ease;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+  overflow: hidden;
+}
+
+.age-card::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  border-radius: 16px;
+  background: linear-gradient(135deg, var(--card-color, #06b6d4), transparent);
+  opacity: 0;
+  transition: opacity 0.25s ease;
+}
+
+.age-card:hover {
+  border-color: rgba(148, 163, 184, 0.25);
+  box-shadow: 0 8px 24px rgba(0,0,0,0.3), 0 0 20px rgba(6,182,212,0.08);
+  background: rgba(30, 41, 59, 0.9);
+}
+
+.age-card:hover::before {
+  opacity: 0.06;
+}
+
+.age-card.selected {
+  border-color: var(--card-color, #06b6d4);
+  background: rgba(30, 41, 59, 0.95);
+  box-shadow: 0 0 0 1px var(--card-color, #06b6d4),
+              0 8px 30px rgba(0,0,0,0.4),
+              0 0 30px color-mix(in srgb, var(--card-color, #06b6d4) 30%, transparent);
+}
+
+.age-card.selected::before {
+  opacity: 0.1;
+}
+
+.age-card-icon {
+  font-size: 2.2rem;
+  line-height: 1;
+  display: block;
+  position: relative;
+  z-index: 1;
+}
+
+.age-card-name {
+  font-size: 0.82rem;
+  font-weight: 700;
+  color: #e2e8f0;
+  text-align: center;
+  position: relative;
+  z-index: 1;
+  line-height: 1.2;
+}
+
+.age-card-range {
+  font-size: 0.72rem;
+  color: rgba(148, 163, 184, 0.7);
+  text-align: center;
+  position: relative;
+  z-index: 1;
+}
+
+.age-card.selected .age-card-name {
+  color: var(--card-color, #06b6d4);
+}
+
+.age-card.selected .age-card-range {
+  color: color-mix(in srgb, var(--card-color, #06b6d4) 70%, white);
+}
+
+.age-card-check {
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background: var(--card-color, #06b6d4);
+  color: white;
+  font-size: 0.65rem;
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 2;
+}
+
+/* ─── Actions ─────────────────────────────── */
+.age-actions {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 12px;
+}
+
+.age-continue-btn {
+  width: 100%;
+  max-width: 320px;
+  padding: 14px 32px;
+  border-radius: 50px;
+  background: linear-gradient(135deg, #06b6d4, #8b5cf6);
+  color: white;
+  font-size: 1rem;
+  font-weight: 700;
+  border: none;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  box-shadow: 0 4px 20px rgba(6,182,212,0.35);
+  letter-spacing: 0.3px;
+}
+
+.age-continue-btn:disabled {
+  opacity: 0.35;
+  cursor: not-allowed;
+  box-shadow: none;
+}
+
+.age-continue-btn:not(:disabled):hover {
+  box-shadow: 0 6px 28px rgba(6,182,212,0.5);
+}
+
+.age-skip-btn {
+  background: none;
+  border: none;
+  color: rgba(148, 163, 184, 0.55);
+  font-size: 0.8rem;
+  cursor: pointer;
+  padding: 4px 12px;
+  transition: color 0.15s;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.age-skip-btn:hover {
+  color: rgba(148, 163, 184, 0.85);
+}
+
+/* ─── Mobile ──────────────────────────────── */
+@media (max-width: 600px) {
+  .age-modal {
+    padding: 28px 20px 24px;
+    border-radius: 20px;
+  }
+
+  .age-title { font-size: 1.4rem; }
+
+  .age-grid {
+    gap: 8px;
+  }
+
+  .age-card {
+    width: calc(50% - 8px);
+    min-width: unset;
+    padding: 16px 12px 14px;
+  }
+
+  .age-card-icon { font-size: 1.8rem; }
+  .age-card-name { font-size: 0.78rem; }
+}
+
+@media (max-width: 380px) {
+  .age-card { width: 100%; }
+}

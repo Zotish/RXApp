@@ -1,0 +1,48 @@
+/* =============================================
+   App-level Styles
+   ============================================= */
+
+.app-wrapper {
+  min-height: 100vh;
+  position: relative;
+}
+
+/* Page transition wrapper */
+.page-wrapper {
+  min-height: 100vh;
+}
+
+/* Scroll to top button */
+.scroll-top-btn {
+  position: fixed;
+  bottom: 24px;
+  right: 24px;
+  width: 44px;
+  height: 44px;
+  border-radius: 12px;
+  background: var(--color-accent-primary);
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: none;
+  cursor: pointer;
+  box-shadow: var(--shadow-md);
+  transition: all var(--transition-base);
+  z-index: var(--z-sticky);
+  opacity: 0;
+  transform: translateY(20px);
+  pointer-events: none;
+}
+
+.scroll-top-btn.visible {
+  opacity: 1;
+  transform: translateY(0);
+  pointer-events: auto;
+}
+
+.scroll-top-btn:hover {
+  transform: translateY(-2px);
+  background: var(--color-accent-primary-hover);
+  box-shadow: var(--shadow-lg);
+}

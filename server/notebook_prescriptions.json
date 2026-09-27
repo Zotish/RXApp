@@ -1,0 +1,3644 @@
+[
+  {
+    "photo_num": 1,
+    "photo_name": "photo_1_2026-09-24_00-01-09.jpg",
+    "condition_bn": "কোষ্ঠকাঠিন্য",
+    "condition_en": "Constipation",
+    "age_group": "7m-2y",
+    "medicines": [
+      {
+        "form": "Syp.",
+        "name": "Sopilax",
+        "strength": "",
+        "dosage": "১/২ চামচ x ২ বার",
+        "duration": "১০ দিন",
+        "instructions": "পায়খানা পাতলা হলে বন্ধ",
+        "is_sos": 0
+      },
+      {
+        "form": "Syp.",
+        "name": "Algin",
+        "strength": "",
+        "dosage": "১/২ চামচ x ৩ বার",
+        "duration": "",
+        "instructions": "পেটে ব্যথা হলে",
+        "is_sos": 1
+      },
+      {
+        "form": "Syp.",
+        "name": "Famotack",
+        "strength": "",
+        "dosage": "১/২ চামচ x রাতে",
+        "duration": "১০ দিন",
+        "instructions": "রাতে খাবেন",
+        "is_sos": 0
+      }
+    ],
+    "general_instructions": ""
+  },
+  {
+    "photo_num": 2,
+    "photo_name": "photo_2_2026-09-24_00-01-09.jpg",
+    "condition_bn": "কোষ্ঠকাঠিন্য",
+    "condition_en": "Constipation",
+    "age_group": "3-8y",
+    "medicines": [
+      {
+        "form": "Syp.",
+        "name": "Sopilax",
+        "strength": "",
+        "dosage": "১ চামচ x ৩ বার",
+        "duration": "১০ দিন",
+        "instructions": "পায়খানা নরম হলে বন্ধ",
+        "is_sos": 0
+      },
+      {
+        "form": "Syp.",
+        "name": "Algin",
+        "strength": "",
+        "dosage": "১ চামচ x ৩ বার",
+        "duration": "",
+        "instructions": "পেটে ব্যাথা হলে",
+        "is_sos": 1
+      },
+      {
+        "form": "Syp.",
+        "name": "Famotack",
+        "strength": "",
+        "dosage": "১ চামচ x রাতে",
+        "duration": "১০ দিন",
+        "instructions": "রাতে খাবেন",
+        "is_sos": 0
+      },
+      {
+        "form": "Syp.",
+        "name": "Emistat",
+        "strength": "",
+        "dosage": "১ চামচ x ৩ বার",
+        "duration": "",
+        "instructions": "বমি হলে",
+        "is_sos": 1
+      }
+    ],
+    "general_instructions": ""
+  },
+  {
+    "photo_num": 3,
+    "photo_name": "photo_3_2026-09-24_00-01-09.jpg",
+    "condition_bn": "কোষ্ঠকাঠিন্য",
+    "condition_en": "Constipation",
+    "age_group": "9y-13y",
+    "medicines": [
+      {
+        "form": "Syp.",
+        "name": "Sopilax",
+        "strength": "",
+        "dosage": "২ চামচ x ৩ বার",
+        "duration": "১০ দিন",
+        "instructions": "পায়খানা নরম হলে বন্ধ",
+        "is_sos": 0
+      },
+      {
+        "form": "Tab.",
+        "name": "Algin",
+        "strength": "50mg",
+        "dosage": "১+১+১",
+        "duration": "",
+        "instructions": "পেটে ব্যাথা হলে",
+        "is_sos": 1
+      },
+      {
+        "form": "Cap.",
+        "name": "Finix",
+        "strength": "10mg",
+        "dosage": "০+০+১",
+        "duration": "১০ দিন",
+        "instructions": "খাবার আগে",
+        "is_sos": 0
+      }
+    ],
+    "general_instructions": ""
+  },
+  {
+    "photo_num": 4,
+    "photo_name": "photo_4_2026-09-24_00-01-09.jpg",
+    "condition_bn": "কোষ্ঠকাঠিন্য",
+    "condition_en": "Constipation",
+    "age_group": "14-17y",
+    "medicines": [
+      {
+        "form": "Syp.",
+        "name": "Sopilax",
+        "strength": "",
+        "dosage": "৩ চামচ x ২ বার",
+        "duration": "১০ দিন",
+        "instructions": "পায়খানা নরম হলে বন্ধ",
+        "is_sos": 0
+      },
+      {
+        "form": "Tab.",
+        "name": "Pantonix",
+        "strength": "20mg",
+        "dosage": "১+০+১",
+        "duration": "১০ দিন",
+        "instructions": "খাবার আগে",
+        "is_sos": 0
+      },
+      {
+        "form": "Tab.",
+        "name": "Algin",
+        "strength": "50mg",
+        "dosage": "১+১+১",
+        "duration": "",
+        "instructions": "পেটে ব্যাথা হলে",
+        "is_sos": 1
+      }
+    ],
+    "general_instructions": ""
+  },
+  {
+    "photo_num": 5,
+    "photo_name": "photo_5_2026-09-24_00-01-09.jpg",
+    "condition_bn": "কোষ্ঠকাঠিন্য",
+    "condition_en": "Constipation",
+    "age_group": "18+",
+    "medicines": [
+      {
+        "form": "Tab.",
+        "name": "Sopilax",
+        "strength": "10mg",
+        "dosage": "০+০+১",
+        "duration": "১০ দিন",
+        "instructions": "পায়খানা নরম হলে বন্ধ",
+        "is_sos": 0
+      },
+      {
+        "form": "Tab.",
+        "name": "Algin",
+        "strength": "50mg",
+        "dosage": "১+১+১",
+        "duration": "",
+        "instructions": "পেটে ব্যথা হলে",
+        "is_sos": 1
+      },
+      {
+        "form": "Cap.",
+        "name": "Dextac",
+        "strength": "30mg",
+        "dosage": "০+০+১",
+        "duration": "১০ দিন",
+        "instructions": "খাওয়ার আগে",
+        "is_sos": 0
+      }
+    ],
+    "general_instructions": ""
+  },
+  {
+    "photo_num": 6,
+    "photo_name": "photo_6_2026-09-24_00-01-09.jpg",
+    "condition_bn": "মুখে ঘাঁ",
+    "condition_en": "Oral Candidiasis mouth",
+    "age_group": "3y-8y",
+    "medicines": [
+      {
+        "form": "Syp.",
+        "name": "Xinc-B",
+        "strength": "",
+        "dosage": "১ চামচ x ২ বার",
+        "duration": "১০ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Tab.",
+        "name": "Ceevit",
+        "strength": "250mg",
+        "dosage": "১+০+১",
+        "duration": "১০ দিন",
+        "instructions": "চুষে খাবেন",
+        "is_sos": 0
+      },
+      {
+        "form": "Gel",
+        "name": "Micoral Gel",
+        "strength": "",
+        "dosage": "আক্রান্ত স্থানে দিনে ৩ বার",
+        "duration": "১০ দিন",
+        "instructions": "মুখে লাগাবেন",
+        "is_sos": 0
+      }
+    ],
+    "general_instructions": ""
+  },
+  {
+    "photo_num": 7,
+    "photo_name": "photo_7_2026-09-24_00-01-09.jpg",
+    "condition_bn": "মুখে ঘাঁ",
+    "condition_en": "Oral Candidiasis mouth",
+    "age_group": "9-13y",
+    "medicines": [
+      {
+        "form": "Tab.",
+        "name": "Xinc-B",
+        "strength": "",
+        "dosage": "১+০+১",
+        "duration": "১০ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Tab.",
+        "name": "Ceevit",
+        "strength": "250mg",
+        "dosage": "১+০+১",
+        "duration": "১০ দিন",
+        "instructions": "চুষে খাবেন",
+        "is_sos": 0
+      },
+      {
+        "form": "Gel",
+        "name": "Micoral Gel",
+        "strength": "",
+        "dosage": "আক্রান্ত স্থানে দিনে ৩ বার",
+        "duration": "১০ দিন",
+        "instructions": "মুখে লাগাবেন",
+        "is_sos": 0
+      }
+    ],
+    "general_instructions": ""
+  },
+  {
+    "photo_num": 8,
+    "photo_name": "photo_8_2026-09-24_00-01-09.jpg",
+    "condition_bn": "মুখে ঘাঁ",
+    "condition_en": "Oral Candidiasis mouth",
+    "age_group": "14y-17y",
+    "medicines": [
+      {
+        "form": "Tab.",
+        "name": "Xinc-B",
+        "strength": "",
+        "dosage": "১+০+১",
+        "duration": "১০ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Tab.",
+        "name": "Ceevit",
+        "strength": "250mg",
+        "dosage": "১+০+১",
+        "duration": "১০ দিন",
+        "instructions": "চুষে খাবেন",
+        "is_sos": 0
+      },
+      {
+        "form": "Gel",
+        "name": "Micoral Gel",
+        "strength": "",
+        "dosage": "আক্রান্ত স্থানে দিনে ৩ বার",
+        "duration": "১০ দিন",
+        "instructions": "মুখে লাগাবেন",
+        "is_sos": 0
+      }
+    ],
+    "general_instructions": ""
+  },
+  {
+    "photo_num": 9,
+    "photo_name": "photo_9_2026-09-24_00-01-09.jpg",
+    "condition_bn": "মুখে ঘাঁ",
+    "condition_en": "Oral Candidiasis mouth",
+    "age_group": "18+",
+    "medicines": [
+      {
+        "form": "Tab.",
+        "name": "Xinc-B",
+        "strength": "",
+        "dosage": "১+০+১",
+        "duration": "১০ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Tab.",
+        "name": "Ceevit",
+        "strength": "250mg",
+        "dosage": "১+০+১",
+        "duration": "১০ দিন",
+        "instructions": "চুষে খাবেন",
+        "is_sos": 0
+      },
+      {
+        "form": "Gel",
+        "name": "Micoral Gel",
+        "strength": "",
+        "dosage": "আক্রান্ত স্থানে দিনে ৩ বার",
+        "duration": "১০ দিন",
+        "instructions": "মুখে লাগাবেন",
+        "is_sos": 0
+      }
+    ],
+    "general_instructions": ""
+  },
+  {
+    "photo_num": 10,
+    "photo_name": "photo_10_2026-09-24_00-01-09.jpg",
+    "condition_bn": "জিহ্বা ঘাঁ",
+    "condition_en": "Oral Candidiasis tongue",
+    "age_group": "7m-2y",
+    "medicines": [
+      {
+        "form": "Syp.",
+        "name": "Flugal",
+        "strength": "",
+        "dosage": "১/২ চামচ x রাতে",
+        "duration": "১৪ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Syp.",
+        "name": "Xinc-B",
+        "strength": "",
+        "dosage": "১/২ চামচ x ২ বার",
+        "duration": "১০ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Drop",
+        "name": "Nystat Drop",
+        "strength": "",
+        "dosage": "১ মি.লি. x ৩ বার",
+        "duration": "১০ দিন",
+        "instructions": "জিহ্বায় লাগাবেন",
+        "is_sos": 0
+      }
+    ],
+    "general_instructions": ""
+  },
+  {
+    "photo_num": 11,
+    "photo_name": "photo_11_2026-09-24_00-01-09.jpg",
+    "condition_bn": "জিহ্বা ঘাঁ",
+    "condition_en": "Oral Candidiasis tongue",
+    "age_group": "3y-8y",
+    "medicines": [
+      {
+        "form": "Syp.",
+        "name": "Flugal",
+        "strength": "",
+        "dosage": "১ চামচ x রাতে",
+        "duration": "১৪ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Syp.",
+        "name": "Xinc-B",
+        "strength": "",
+        "dosage": "১ চামচ x ২ বার",
+        "duration": "১০ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Drop",
+        "name": "Nystat Drop",
+        "strength": "",
+        "dosage": "১ মি.লি. x ৩ বার",
+        "duration": "১০ দিন",
+        "instructions": "জিহ্বায় লাগাবেন",
+        "is_sos": 0
+      }
+    ],
+    "general_instructions": ""
+  },
+  {
+    "photo_num": 12,
+    "photo_name": "photo_12_2026-09-24_00-01-09.jpg",
+    "condition_bn": "মুখে ঘা",
+    "condition_en": "Aphthous ulcer",
+    "age_group": "7m-2y",
+    "medicines": [
+      {
+        "form": "Syp.",
+        "name": "Xinc-B",
+        "strength": "",
+        "dosage": "১/২ চামচ x ২ বার",
+        "duration": "১০ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Tab.",
+        "name": "Ceevit",
+        "strength": "250mg",
+        "dosage": "১+০+১",
+        "duration": "৭ দিন",
+        "instructions": "চুষে খাবেন",
+        "is_sos": 0
+      },
+      {
+        "form": "Paste",
+        "name": "Apsol oral paste",
+        "strength": "",
+        "dosage": "আক্রান্ত স্থানে দিনে ৩ বার",
+        "duration": "১০ দিন",
+        "instructions": "ক্ষত স্থানে লাগাবেন",
+        "is_sos": 0
+      }
+    ],
+    "general_instructions": ""
+  },
+  {
+    "photo_num": 13,
+    "photo_name": "photo_13_2026-09-24_00-01-09.jpg",
+    "condition_bn": "মুখে ঘা",
+    "condition_en": "Aphthous ulcer",
+    "age_group": "3y-8y",
+    "medicines": [
+      {
+        "form": "Syp.",
+        "name": "Xinc-B",
+        "strength": "",
+        "dosage": "১ চামচ x ২ বার",
+        "duration": "১০ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Tab.",
+        "name": "Ceevit",
+        "strength": "250mg",
+        "dosage": "১+০+১",
+        "duration": "১০ দিন",
+        "instructions": "চুষে খাবেন",
+        "is_sos": 0
+      },
+      {
+        "form": "Paste",
+        "name": "Apsol oral paste",
+        "strength": "",
+        "dosage": "আক্রান্ত স্থানে দিনে ৩ বার",
+        "duration": "১০ দিন",
+        "instructions": "ক্ষত স্থানে লাগাবেন",
+        "is_sos": 0
+      }
+    ],
+    "general_instructions": ""
+  },
+  {
+    "photo_num": 14,
+    "photo_name": "photo_14_2026-09-24_00-01-09.jpg",
+    "condition_bn": "মুখে ঘা",
+    "condition_en": "Aphthous ulcer",
+    "age_group": "9y-13y",
+    "medicines": [
+      {
+        "form": "Tab.",
+        "name": "Xinc-B",
+        "strength": "",
+        "dosage": "১+০+১",
+        "duration": "১৫ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Tab.",
+        "name": "Ceevit",
+        "strength": "250mg",
+        "dosage": "১+০+১",
+        "duration": "১০ দিন",
+        "instructions": "চুষে খাবেন",
+        "is_sos": 0
+      },
+      {
+        "form": "Paste",
+        "name": "Apsol oral paste",
+        "strength": "",
+        "dosage": "আক্রান্ত স্থানে দিনে ৩ বার",
+        "duration": "১৫ দিন",
+        "instructions": "ক্ষত স্থানে লাগাবেন",
+        "is_sos": 0
+      }
+    ],
+    "general_instructions": ""
+  },
+  {
+    "photo_num": 15,
+    "photo_name": "photo_15_2026-09-24_00-01-09.jpg",
+    "condition_bn": "জন্ডিস",
+    "condition_en": "Jaundice",
+    "age_group": "14y-17y",
+    "medicines": [
+      {
+        "form": "Cap.",
+        "name": "Sergel",
+        "strength": "20mg",
+        "dosage": "১+০+১",
+        "duration": "১ মাস",
+        "instructions": "খাবার আগে",
+        "is_sos": 0
+      },
+      {
+        "form": "Tab.",
+        "name": "Don-A",
+        "strength": "",
+        "dosage": "১+১+১",
+        "duration": "১ মাস",
+        "instructions": "খাবার আগে",
+        "is_sos": 0
+      },
+      {
+        "form": "Syp.",
+        "name": "Avolac",
+        "strength": "",
+        "dosage": "৩ চামচ x ২ বার",
+        "duration": "৭ দিন",
+        "instructions": "পায়খানা কসা হলে খাবেন, পায়খানা নরম হলে বন্ধ",
+        "is_sos": 1
+      }
+    ],
+    "general_instructions": ""
+  },
+  {
+    "photo_num": 16,
+    "photo_name": "photo_16_2026-09-24_00-01-09.jpg",
+    "condition_bn": "জন্ডিস",
+    "condition_en": "Jaundice",
+    "age_group": "18+",
+    "medicines": [
+      {
+        "form": "Cap.",
+        "name": "Sergel",
+        "strength": "20mg",
+        "dosage": "১+০+১",
+        "duration": "১ মাস",
+        "instructions": "খাবার আগে",
+        "is_sos": 0
+      },
+      {
+        "form": "Tab.",
+        "name": "Don-A",
+        "strength": "",
+        "dosage": "১+১+১",
+        "duration": "১ মাস",
+        "instructions": "খাবার আগে",
+        "is_sos": 0
+      },
+      {
+        "form": "Syp.",
+        "name": "Avolac",
+        "strength": "",
+        "dosage": "৩ চামচ x ৩ বার",
+        "duration": "৭ দিন",
+        "instructions": "পায়খানা কসা হলে খাবেন, পায়খানা নরম হলে বন্ধ",
+        "is_sos": 1
+      }
+    ],
+    "general_instructions": ""
+  },
+  {
+    "photo_num": 17,
+    "photo_name": "photo_17_2026-09-24_00-01-09.jpg",
+    "condition_bn": "শ্বাসকষ্ট",
+    "condition_en": "Bronchial asthma",
+    "age_group": "18+",
+    "medicines": [
+      {
+        "form": "Tab.",
+        "name": "Monas",
+        "strength": "10mg",
+        "dosage": "০+০+১",
+        "duration": "১ মাস",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Tab.",
+        "name": "Fexo",
+        "strength": "120mg",
+        "dosage": "০+০+১",
+        "duration": "১ মাস",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Cap.",
+        "name": "Seclo",
+        "strength": "20mg",
+        "dosage": "১+০+১",
+        "duration": "১০ দিন",
+        "instructions": "খাবার আগে",
+        "is_sos": 0
+      },
+      {
+        "form": "Inha.",
+        "name": "Sulprex HFA",
+        "strength": "",
+        "dosage": "২ চাপ করে",
+        "duration": "চলবে",
+        "instructions": "প্রয়োজন হলে",
+        "is_sos": 1
+      }
+    ],
+    "general_instructions": ""
+  },
+  {
+    "photo_num": 18,
+    "photo_name": "photo_18_2026-09-24_00-01-09.jpg",
+    "condition_bn": "সাধারণ সর্দি",
+    "condition_en": "Common cold",
+    "age_group": "7m-2y",
+    "medicines": [
+      {
+        "form": "Syp.",
+        "name": "Fexo",
+        "strength": "",
+        "dosage": "১/২ চামচ x রাতে",
+        "duration": "১০ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Syp.",
+        "name": "Ace",
+        "strength": "",
+        "dosage": "১ চামচ x ৩ বার",
+        "duration": "",
+        "instructions": "জ্বর বা ব্যাথা হলে",
+        "is_sos": 1
+      },
+      {
+        "form": "Drop",
+        "name": "Solo N/Drop",
+        "strength": "",
+        "dosage": "২ ফোঁটা x ৪ বার",
+        "duration": "১০ দিন",
+        "instructions": "নাকে দিবেন",
+        "is_sos": 0
+      }
+    ],
+    "general_instructions": ""
+  },
+  {
+    "photo_num": 19,
+    "photo_name": "photo_19_2026-09-24_00-01-09.jpg",
+    "condition_bn": "সাধারণ সর্দি",
+    "condition_en": "Common cold",
+    "age_group": "3-8y",
+    "medicines": [
+      {
+        "form": "Syp.",
+        "name": "Fexo",
+        "strength": "",
+        "dosage": "১ চামচ x রাতে",
+        "duration": "১০ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Syp.",
+        "name": "Ace",
+        "strength": "",
+        "dosage": "২ চামচ x ৩ বার",
+        "duration": "",
+        "instructions": "জ্বর বা ব্যাথা হলে",
+        "is_sos": 1
+      },
+      {
+        "form": "Drop",
+        "name": "Afrin child N/Drop",
+        "strength": "",
+        "dosage": "২ ফোঁটা x ৩ বার",
+        "duration": "১০ দিন",
+        "instructions": "নাকে দিবেন",
+        "is_sos": 0
+      }
+    ],
+    "general_instructions": ""
+  },
+  {
+    "photo_num": 20,
+    "photo_name": "photo_20_2026-09-24_00-01-09.jpg",
+    "condition_bn": "সাধারণ ঠান্ডা",
+    "condition_en": "Common cold",
+    "age_group": "9y-13y",
+    "medicines": [
+      {
+        "form": "Tab.",
+        "name": "Fexo",
+        "strength": "60mg",
+        "dosage": "০+০+১",
+        "duration": "১০ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Tab.",
+        "name": "Napa",
+        "strength": "500mg",
+        "dosage": "১+১+১",
+        "duration": "",
+        "instructions": "জ্বর হলে",
+        "is_sos": 1
+      },
+      {
+        "form": "Drop",
+        "name": "Afrin Adult N/Drop",
+        "strength": "",
+        "dosage": "২ ফোঁটা x ৩ বার",
+        "duration": "১০ দিন",
+        "instructions": "নাকে দিবেন",
+        "is_sos": 0
+      }
+    ],
+    "general_instructions": ""
+  },
+  {
+    "photo_num": 21,
+    "photo_name": "photo_21_2026-09-24_00-01-09.jpg",
+    "condition_bn": "সাধারণ ঠান্ডা",
+    "condition_en": "Common cold",
+    "age_group": "14y-17y",
+    "medicines": [
+      {
+        "form": "Tab.",
+        "name": "Fexo",
+        "strength": "120mg",
+        "dosage": "০+০+১",
+        "duration": "১০ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Tab.",
+        "name": "Napa",
+        "strength": "500mg",
+        "dosage": "১+১+১",
+        "duration": "",
+        "instructions": "জ্বর হলে",
+        "is_sos": 1
+      },
+      {
+        "form": "Drop",
+        "name": "Afrin Adult N/Drop",
+        "strength": "",
+        "dosage": "২ ফোঁটা x ৩ বার",
+        "duration": "১০ দিন",
+        "instructions": "নাকে দিবেন",
+        "is_sos": 0
+      }
+    ],
+    "general_instructions": ""
+  },
+  {
+    "photo_num": 22,
+    "photo_name": "photo_22_2026-09-24_00-01-09.jpg",
+    "condition_bn": "সাধারণ ঠান্ডা",
+    "condition_en": "Common cold",
+    "age_group": "18+",
+    "medicines": [
+      {
+        "form": "Tab.",
+        "name": "Fexo",
+        "strength": "120mg",
+        "dosage": "১+০+১",
+        "duration": "১০ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Tab.",
+        "name": "Ace",
+        "strength": "500mg",
+        "dosage": "১+১+১",
+        "duration": "",
+        "instructions": "জ্বর হলে",
+        "is_sos": 1
+      },
+      {
+        "form": "Drop",
+        "name": "Afrin child N/Drop",
+        "strength": "",
+        "dosage": "২ ফোঁটা x ৩ বার",
+        "duration": "১০ দিন",
+        "instructions": "নাকে দিবেন",
+        "is_sos": 0
+      }
+    ],
+    "general_instructions": ""
+  },
+  {
+    "photo_num": 23,
+    "photo_name": "photo_23_2026-09-24_00-01-09.jpg",
+    "condition_bn": "মাথা ব্যাথা",
+    "condition_en": "Headache",
+    "age_group": "14-17y",
+    "medicines": [
+      {
+        "form": "Tab.",
+        "name": "Napa Extra",
+        "strength": "",
+        "dosage": "১+১+১",
+        "duration": "৩ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Tab.",
+        "name": "Pizo",
+        "strength": "0.5mg",
+        "dosage": "০+০+১",
+        "duration": "১ মাস",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Cap.",
+        "name": "Xeldrin",
+        "strength": "20mg",
+        "dosage": "১+০+১",
+        "duration": "১০ দিন",
+        "instructions": "খাবার আগে",
+        "is_sos": 0
+      }
+    ],
+    "general_instructions": ""
+  },
+  {
+    "photo_num": 24,
+    "photo_name": "photo_24_2026-09-24_00-01-09.jpg",
+    "condition_bn": "মাথা ঘোরানো",
+    "condition_en": "Vertigo",
+    "age_group": "18+",
+    "medicines": [
+      {
+        "form": "Tab.",
+        "name": "Menaril",
+        "strength": "8mg",
+        "dosage": "১+১+১",
+        "duration": "১৫ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Tab.",
+        "name": "Angenta",
+        "strength": "",
+        "dosage": "১+০+০",
+        "duration": "১৫ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Tab.",
+        "name": "Emistat",
+        "strength": "8mg",
+        "dosage": "১+১+১",
+        "duration": "",
+        "instructions": "বমি হলে / খাবার আগে",
+        "is_sos": 1
+      }
+    ],
+    "general_instructions": ""
+  },
+  {
+    "photo_num": 25,
+    "photo_name": "photo_25_2026-09-24_00-01-09.jpg",
+    "condition_bn": "হাত-পা-মুখে পানি আসা",
+    "condition_en": "Oedema",
+    "age_group": "18+",
+    "medicines": [
+      {
+        "form": "Tab.",
+        "name": "Fusid Plus",
+        "strength": "20/50mg",
+        "dosage": "১+০+০",
+        "duration": "৫ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Cap.",
+        "name": "Seclo",
+        "strength": "20mg",
+        "dosage": "১+০+১",
+        "duration": "৫ দিন",
+        "instructions": "খাবার আগে",
+        "is_sos": 0
+      }
+    ],
+    "general_instructions": ""
+  },
+  {
+    "photo_num": 26,
+    "photo_name": "photo_26_2026-09-24_00-01-09.jpg",
+    "condition_bn": "মাথা ব্যাথা",
+    "condition_en": "Headache",
+    "age_group": "18+",
+    "medicines": [
+      {
+        "form": "Tab.",
+        "name": "Napa Extra",
+        "strength": "",
+        "dosage": "১+১+১",
+        "duration": "৩ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Tab.",
+        "name": "Pizo",
+        "strength": "1.5mg",
+        "dosage": "০+০+১",
+        "duration": "১ মাস",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Tab.",
+        "name": "Angenta",
+        "strength": "",
+        "dosage": "১+০+০",
+        "duration": "১ মাস",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Tab.",
+        "name": "Amilin",
+        "strength": "10mg",
+        "dosage": "০+০+১",
+        "duration": "১ মাস",
+        "instructions": "",
+        "is_sos": 0
+      }
+    ],
+    "general_instructions": ""
+  },
+  {
+    "photo_num": 27,
+    "photo_name": "photo_27_2026-09-24_00-01-09.jpg",
+    "condition_bn": "দুশ্চিন্তা",
+    "condition_en": "Anxiety/Depression",
+    "age_group": "18+",
+    "medicines": [
+      {
+        "form": "Tab.",
+        "name": "Angenta",
+        "strength": "",
+        "dosage": "১+০+০",
+        "duration": "১ মাস",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Tab.",
+        "name": "Napa Extra",
+        "strength": "",
+        "dosage": "১+১+১",
+        "duration": "",
+        "instructions": "মাথা ব্যথা হলে",
+        "is_sos": 1
+      },
+      {
+        "form": "Tab.",
+        "name": "Amilin",
+        "strength": "10mg",
+        "dosage": "০+০+১",
+        "duration": "১ মাস",
+        "instructions": "",
+        "is_sos": 0
+      }
+    ],
+    "general_instructions": ""
+  },
+  {
+    "photo_num": 28,
+    "photo_name": "photo_28_2026-09-24_00-01-09.jpg",
+    "condition_bn": "ঘুম কম",
+    "condition_en": "Insomnia",
+    "age_group": "18+",
+    "medicines": [
+      {
+        "form": "Tab.",
+        "name": "Angenta",
+        "strength": "",
+        "dosage": "১+০+০",
+        "duration": "১ মাস",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Tab.",
+        "name": "Amilin",
+        "strength": "10mg",
+        "dosage": "০+০+১",
+        "duration": "১ মাস",
+        "instructions": "সন্ধ্যা ৭ টায় খাবেন",
+        "is_sos": 0
+      },
+      {
+        "form": "Cap.",
+        "name": "Seclo",
+        "strength": "20mg",
+        "dosage": "১+০+১",
+        "duration": "১০ দিন",
+        "instructions": "খাবার আগে",
+        "is_sos": 0
+      },
+      {
+        "form": "Tab.",
+        "name": "Napa Extend",
+        "strength": "",
+        "dosage": "১+১+১",
+        "duration": "",
+        "instructions": "মাথা ব্যথা হলে",
+        "is_sos": 1
+      }
+    ],
+    "general_instructions": ""
+  },
+  {
+    "photo_num": 29,
+    "photo_name": "photo_29_2026-09-24_00-01-09.jpg",
+    "condition_bn": "কোমরে ব্যথা",
+    "condition_en": "LBP",
+    "age_group": "18+",
+    "medicines": [
+      {
+        "form": "Tab.",
+        "name": "Neso",
+        "strength": "500mg",
+        "dosage": "১+০+১",
+        "duration": "১০ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Tab.",
+        "name": "Beklo",
+        "strength": "5mg",
+        "dosage": "১+০+১",
+        "duration": "১০ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Tab.",
+        "name": "Coralcal-DX",
+        "strength": "",
+        "dosage": "০+০+১",
+        "duration": "১ মাস",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Cap.",
+        "name": "Xeldrin",
+        "strength": "20mg",
+        "dosage": "১+০+১",
+        "duration": "১০ দিন",
+        "instructions": "খাবার আগে",
+        "is_sos": 0
+      }
+    ],
+    "general_instructions": "গরম পানির সেঁক দিবেন দিনে ২ বার"
+  },
+  {
+    "photo_num": 30,
+    "photo_name": "photo_30_2026-09-24_00-01-09.jpg",
+    "condition_bn": "জ্বর",
+    "condition_en": "Fever",
+    "age_group": "7m-2y",
+    "medicines": [
+      {
+        "form": "Syp.",
+        "name": "Ace",
+        "strength": "",
+        "dosage": "১ চামচ x ৩ বার",
+        "duration": "৫ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Supp.",
+        "name": "Ace",
+        "strength": "125mg",
+        "dosage": "১টি কাঁচি পায়ুনলে",
+        "duration": "",
+        "instructions": "জ্বর ১০২°F হলে (৩ দিনের মধ্যে জ্বর না কমলে যুক্ত করুন)",
+        "is_sos": 1
+      },
+      {
+        "form": "Syp.",
+        "name": "Zimax",
+        "strength": "",
+        "dosage": "১/২ চামচ x রাতে",
+        "duration": "৭ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Syp.",
+        "name": "Fexo",
+        "strength": "",
+        "dosage": "১/২ চামচ x রাতে",
+        "duration": "১০ দিন",
+        "instructions": "ঠান্ডা থাকলে",
+        "is_sos": 1
+      }
+    ],
+    "general_instructions": ""
+  },
+  {
+    "photo_num": 31,
+    "photo_name": "photo_31_2026-09-24_00-01-09.jpg",
+    "condition_bn": "জ্বর",
+    "condition_en": "Fever",
+    "age_group": "3y-7y",
+    "medicines": [
+      {
+        "form": "Syp.",
+        "name": "Ace",
+        "strength": "",
+        "dosage": "২ চামচ x ৩ বার",
+        "duration": "৫ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Supp.",
+        "name": "Ace",
+        "strength": "250mg",
+        "dosage": "১টি কাঁচি পায়ুনলে",
+        "duration": "",
+        "instructions": "জ্বর ১০২°F হলে (৩ দিন পর জ্বর না কমলে যুক্ত করুন)",
+        "is_sos": 1
+      },
+      {
+        "form": "Syp.",
+        "name": "Zimax",
+        "strength": "",
+        "dosage": "১ চামচ x রাতে",
+        "duration": "৭ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Syp.",
+        "name": "Odafen",
+        "strength": "",
+        "dosage": "১ চামচ x রাতে",
+        "duration": "৭ দিন",
+        "instructions": "",
+        "is_sos": 0
+      }
+    ],
+    "general_instructions": ""
+  },
+  {
+    "photo_num": 32,
+    "photo_name": "photo_32_2026-09-24_00-01-09.jpg",
+    "condition_bn": "জ্বর",
+    "condition_en": "Fever",
+    "age_group": "8y-13y",
+    "medicines": [
+      {
+        "form": "Tab.",
+        "name": "Napa",
+        "strength": "500mg",
+        "dosage": "১+১+১",
+        "duration": "৫ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Tab.",
+        "name": "Zimax",
+        "strength": "250mg",
+        "dosage": "০+০+১",
+        "duration": "৭ দিন",
+        "instructions": "৩ দিন পর জ্বর না কমলে",
+        "is_sos": 1
+      },
+      {
+        "form": "Tab.",
+        "name": "Napa Extra",
+        "strength": "",
+        "dosage": "১+১+১",
+        "duration": "৫ দিন",
+        "instructions": "৩ দিন পর জ্বর না কমলে",
+        "is_sos": 1
+      },
+      {
+        "form": "Tab.",
+        "name": "Fexo",
+        "strength": "60mg",
+        "dosage": "০+০+১",
+        "duration": "১০ দিন",
+        "instructions": "৩ দিন পর জ্বর না কমলে",
+        "is_sos": 1
+      },
+      {
+        "form": "Cap.",
+        "name": "Seclo",
+        "strength": "20mg",
+        "dosage": "১+০+১",
+        "duration": "১০ দিন",
+        "instructions": "খাবার আগে (৩ দিন পর জ্বর না কমলে)",
+        "is_sos": 1
+      }
+    ],
+    "general_instructions": ""
+  },
+  {
+    "photo_num": 33,
+    "photo_name": "photo_33_2026-09-24_00-01-09.jpg",
+    "condition_bn": "বসন্ত",
+    "condition_en": "Chicken Pox",
+    "age_group": "3y-8y",
+    "medicines": [
+      {
+        "form": "Syp.",
+        "name": "Virux",
+        "strength": "",
+        "dosage": "১ চামচ x ৪ বার",
+        "duration": "৭ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Syp.",
+        "name": "Napa",
+        "strength": "",
+        "dosage": "২ চামচ x ৩ বার",
+        "duration": "৫ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Syp.",
+        "name": "Bilastin",
+        "strength": "",
+        "dosage": "১ চামচ x রাতে",
+        "duration": "১০ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Syp.",
+        "name": "Fluclox",
+        "strength": "",
+        "dosage": "১ চামচ x ৪ বার",
+        "duration": "৭ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Cream",
+        "name": "Virux",
+        "strength": "",
+        "dosage": "আক্রান্ত স্থানে দিনে ৪ বার",
+        "duration": "১০ দিন",
+        "instructions": "",
+        "is_sos": 0
+      }
+    ],
+    "general_instructions": ""
+  },
+  {
+    "photo_num": 34,
+    "photo_name": "photo_34_2026-09-24_00-01-09.jpg",
+    "condition_bn": "জ্বর",
+    "condition_en": "Fever",
+    "age_group": "18+",
+    "medicines": [
+      {
+        "form": "Tab.",
+        "name": "Napa Extend",
+        "strength": "",
+        "dosage": "১+১+১",
+        "duration": "৫ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Tab.",
+        "name": "Napa One",
+        "strength": "",
+        "dosage": "১+১+১",
+        "duration": "৫ দিন",
+        "instructions": "৩ দিন পর জ্বর না কমলে",
+        "is_sos": 1
+      },
+      {
+        "form": "Tab.",
+        "name": "Cefotil",
+        "strength": "500mg",
+        "dosage": "১+০+১",
+        "duration": "৭ দিন",
+        "instructions": "৩ দিন পর জ্বর না কমলে",
+        "is_sos": 1
+      },
+      {
+        "form": "Tab.",
+        "name": "Fexo",
+        "strength": "180mg",
+        "dosage": "০+০+১",
+        "duration": "১০ দিন",
+        "instructions": "৩ দিন পর জ্বর না কমলে",
+        "is_sos": 1
+      },
+      {
+        "form": "Cap.",
+        "name": "Sergel",
+        "strength": "20mg",
+        "dosage": "১+০+১",
+        "duration": "১০ দিন",
+        "instructions": "খাবার আগে (৩ দিন পর জ্বর না কমলে)",
+        "is_sos": 1
+      }
+    ],
+    "general_instructions": ""
+  },
+  {
+    "photo_num": 35,
+    "photo_name": "photo_35_2026-09-24_00-01-09.jpg",
+    "condition_bn": "জ্বর",
+    "condition_en": "Fever",
+    "age_group": "14y-17y",
+    "medicines": [
+      {
+        "form": "Tab.",
+        "name": "Napa Extra",
+        "strength": "",
+        "dosage": "১+১+১",
+        "duration": "৫ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Tab.",
+        "name": "Napa Extend",
+        "strength": "",
+        "dosage": "১+১+১",
+        "duration": "৫ দিন",
+        "instructions": "৩ দিন পর জ্বর না কমলে",
+        "is_sos": 1
+      },
+      {
+        "form": "Tab.",
+        "name": "Zimax",
+        "strength": "500mg",
+        "dosage": "০+০+১",
+        "duration": "৭ দিন",
+        "instructions": "৩ দিন পর জ্বর না কমলে",
+        "is_sos": 1
+      },
+      {
+        "form": "Tab.",
+        "name": "Fexo",
+        "strength": "120mg",
+        "dosage": "০+০+১",
+        "duration": "১০ দিন",
+        "instructions": "৩ দিন পর জ্বর না কমলে",
+        "is_sos": 1
+      },
+      {
+        "form": "Cap.",
+        "name": "Seclo",
+        "strength": "20mg",
+        "dosage": "১+০+১",
+        "duration": "১০ দিন",
+        "instructions": "খাবার আগে (৩ দিন পর জ্বর না কমলে)",
+        "is_sos": 1
+      }
+    ],
+    "general_instructions": ""
+  },
+  {
+    "photo_num": 36,
+    "photo_name": "photo_36_2026-09-24_00-01-09.jpg",
+    "condition_bn": "বসন্ত",
+    "condition_en": "Chicken Pox",
+    "age_group": "9y-13y",
+    "medicines": [
+      {
+        "form": "Tab.",
+        "name": "Napa",
+        "strength": "500mg",
+        "dosage": "১+১+১",
+        "duration": "৭ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Tab.",
+        "name": "Fexo",
+        "strength": "60mg",
+        "dosage": "০+০+১",
+        "duration": "১০ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Tab.",
+        "name": "Valovir",
+        "strength": "500mg",
+        "dosage": "১+০+১",
+        "duration": "৭ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Cap.",
+        "name": "Fluclox",
+        "strength": "250mg",
+        "dosage": "১+১+১+১",
+        "duration": "৭ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Cap.",
+        "name": "Omegut",
+        "strength": "20mg",
+        "dosage": "১+০+১",
+        "duration": "১০ দিন",
+        "instructions": "খাবার আগে",
+        "is_sos": 0
+      },
+      {
+        "form": "Cream",
+        "name": "Virux",
+        "strength": "",
+        "dosage": "আক্রান্ত স্থানে দিনে ৪ বার",
+        "duration": "১০ দিন",
+        "instructions": "",
+        "is_sos": 0
+      }
+    ],
+    "general_instructions": ""
+  },
+  {
+    "photo_num": 37,
+    "photo_name": "photo_37_2026-09-24_00-01-09.jpg",
+    "condition_bn": "বসন্ত",
+    "condition_en": "Chicken Pox",
+    "age_group": "14y-17y",
+    "medicines": [
+      {
+        "form": "Tab.",
+        "name": "Napa Extend",
+        "strength": "",
+        "dosage": "১+১+১",
+        "duration": "৫ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Tab.",
+        "name": "Alcet",
+        "strength": "",
+        "dosage": "০+০+১",
+        "duration": "১০ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Cap.",
+        "name": "Fluclox",
+        "strength": "500mg",
+        "dosage": "১+১+১+১",
+        "duration": "৭ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Tab.",
+        "name": "Valovir",
+        "strength": "500mg",
+        "dosage": "১+০+১",
+        "duration": "৭ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Cap.",
+        "name": "Seclo",
+        "strength": "20mg",
+        "dosage": "১+০+১",
+        "duration": "১০ দিন",
+        "instructions": "খাবার আগে",
+        "is_sos": 0
+      },
+      {
+        "form": "Cream",
+        "name": "Virux",
+        "strength": "",
+        "dosage": "আক্রান্ত স্থানে দিনে ৪ বার",
+        "duration": "১০ দিন",
+        "instructions": "",
+        "is_sos": 0
+      }
+    ],
+    "general_instructions": ""
+  },
+  {
+    "photo_num": 38,
+    "photo_name": "photo_38_2026-09-24_00-01-09.jpg",
+    "condition_bn": "বসন্ত",
+    "condition_en": "Chicken Pox",
+    "age_group": "18+",
+    "medicines": [
+      {
+        "form": "Tab.",
+        "name": "Napa Extend",
+        "strength": "",
+        "dosage": "১+১+১",
+        "duration": "৫ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Tab.",
+        "name": "Fexo",
+        "strength": "120mg",
+        "dosage": "০+০+১",
+        "duration": "১০ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Tab.",
+        "name": "Valovir",
+        "strength": "1gm",
+        "dosage": "১+০+১",
+        "duration": "৭ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Cap.",
+        "name": "Fluclox",
+        "strength": "500mg",
+        "dosage": "১+১+১+১",
+        "duration": "৭ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Cap.",
+        "name": "Omegut",
+        "strength": "20mg",
+        "dosage": "১+০+১",
+        "duration": "১০ দিন",
+        "instructions": "খাবার আগে",
+        "is_sos": 0
+      },
+      {
+        "form": "Cream",
+        "name": "Virux",
+        "strength": "",
+        "dosage": "আক্রান্ত স্থানে দিনে ৪ বার",
+        "duration": "১০ দিন",
+        "instructions": "",
+        "is_sos": 0
+      }
+    ],
+    "general_instructions": ""
+  },
+  {
+    "photo_num": 39,
+    "photo_name": "photo_39_2026-09-24_00-01-09.jpg",
+    "condition_bn": "পাতলা পায়খানা",
+    "condition_en": "Diarrhoea",
+    "age_group": "7m-2y",
+    "medicines": [
+      {
+        "form": "Syp.",
+        "name": "Filmet",
+        "strength": "",
+        "dosage": "১/২ চামচ x ৩ বার",
+        "duration": "৫ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Syp.",
+        "name": "Zox",
+        "strength": "",
+        "dosage": "১/২ চামচ x ২ বার",
+        "duration": "৩ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Syp.",
+        "name": "Emistat",
+        "strength": "",
+        "dosage": "১/২ চামচ x ৩ বার",
+        "duration": "",
+        "instructions": "বমি হলে",
+        "is_sos": 1
+      },
+      {
+        "form": "Powder",
+        "name": "ORS",
+        "strength": "",
+        "dosage": "প্রতিবার পায়খানার পর",
+        "duration": "",
+        "instructions": "খাওয়াবেন",
+        "is_sos": 0
+      }
+    ],
+    "general_instructions": ""
+  },
+  {
+    "photo_num": 40,
+    "photo_name": "photo_40_2026-09-24_00-01-09.jpg",
+    "condition_bn": "পাতলা পায়খানা",
+    "condition_en": "Diarrhoea",
+    "age_group": "3y-8y",
+    "medicines": [
+      {
+        "form": "Syp.",
+        "name": "Filmet",
+        "strength": "",
+        "dosage": "১ চামচ x ৩ বার",
+        "duration": "৫ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Syp.",
+        "name": "Zox",
+        "strength": "",
+        "dosage": "১ চামচ x ২ বার",
+        "duration": "৩ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Syp.",
+        "name": "Emistat",
+        "strength": "",
+        "dosage": "১ চামচ x ৩ বার",
+        "duration": "",
+        "instructions": "বমি হলে",
+        "is_sos": 1
+      },
+      {
+        "form": "Powder",
+        "name": "ORS",
+        "strength": "",
+        "dosage": "প্রতিবার পায়খানার পর",
+        "duration": "",
+        "instructions": "খাবেন",
+        "is_sos": 0
+      }
+    ],
+    "general_instructions": ""
+  },
+  {
+    "photo_num": 41,
+    "photo_name": "photo_41_2026-09-24_00-01-09.jpg",
+    "condition_bn": "পাতলা পায়খানা",
+    "condition_en": "Diarrhoea",
+    "age_group": "9y-13y",
+    "medicines": [
+      {
+        "form": "Tab.",
+        "name": "Filmet",
+        "strength": "200mg",
+        "dosage": "১+১+১",
+        "duration": "৫ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Tab.",
+        "name": "Zox",
+        "strength": "",
+        "dosage": "১+০+১",
+        "duration": "৩ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Tab.",
+        "name": "Emistat",
+        "strength": "4mg",
+        "dosage": "১+১+১",
+        "duration": "",
+        "instructions": "বমি হলে",
+        "is_sos": 1
+      },
+      {
+        "form": "Powder",
+        "name": "ORS",
+        "strength": "",
+        "dosage": "প্রতিবার পায়খানার পর",
+        "duration": "",
+        "instructions": "খাবেন",
+        "is_sos": 0
+      }
+    ],
+    "general_instructions": ""
+  },
+  {
+    "photo_num": 42,
+    "photo_name": "photo_42_2026-09-24_00-01-09.jpg",
+    "condition_bn": "পাতলা পায়খানা",
+    "condition_en": "Diarrhoea",
+    "age_group": "14y-17y",
+    "medicines": [
+      {
+        "form": "Tab.",
+        "name": "Filmet",
+        "strength": "400mg",
+        "dosage": "১+১+১",
+        "duration": "৫ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Tab.",
+        "name": "Zox",
+        "strength": "",
+        "dosage": "১+০+১",
+        "duration": "৩ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Tab.",
+        "name": "Emistat",
+        "strength": "8mg",
+        "dosage": "১+১+১",
+        "duration": "",
+        "instructions": "বমি হলে",
+        "is_sos": 1
+      },
+      {
+        "form": "Powder",
+        "name": "ORS",
+        "strength": "",
+        "dosage": "প্রতিবার পায়খানার পর",
+        "duration": "",
+        "instructions": "খাবেন",
+        "is_sos": 0
+      }
+    ],
+    "general_instructions": ""
+  },
+  {
+    "photo_num": 43,
+    "photo_name": "photo_43_2026-09-24_00-01-09.jpg",
+    "condition_bn": "পাতলা পায়খানা",
+    "condition_en": "Diarrhoea",
+    "age_group": "18+",
+    "medicines": [
+      {
+        "form": "Tab.",
+        "name": "Flamyd",
+        "strength": "500mg",
+        "dosage": "১+১+১",
+        "duration": "৫ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Tab.",
+        "name": "Zox",
+        "strength": "",
+        "dosage": "১+০+১",
+        "duration": "৩ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Tab.",
+        "name": "Emistat",
+        "strength": "8mg",
+        "dosage": "১+১+১",
+        "duration": "",
+        "instructions": "বমি হলে",
+        "is_sos": 1
+      },
+      {
+        "form": "Powder",
+        "name": "ORS",
+        "strength": "",
+        "dosage": "প্রতিবার পায়খানার পর",
+        "duration": "",
+        "instructions": "খাবেন",
+        "is_sos": 0
+      }
+    ],
+    "general_instructions": ""
+  },
+  {
+    "photo_num": 44,
+    "photo_name": "photo_44_2026-09-24_00-01-09.jpg",
+    "condition_bn": "বমি বা বমি ভাব",
+    "condition_en": "Vomiting or Nausea",
+    "age_group": "7m-2y",
+    "protocol_variant": "Left",
+    "medicines": [
+      {
+        "form": "Syp.",
+        "name": "Emistat",
+        "strength": "",
+        "dosage": "১/২ চামচ x ৩ বার",
+        "duration": "৫ দিন",
+        "instructions": "খাবার আগে",
+        "is_sos": 0
+      },
+      {
+        "form": "Syp.",
+        "name": "Famotack",
+        "strength": "",
+        "dosage": "১/২ চামচ x রাতে",
+        "duration": "১০ দিন",
+        "instructions": "",
+        "is_sos": 0
+      }
+    ],
+    "general_instructions": ""
+  },
+  {
+    "photo_num": 44,
+    "photo_name": "photo_44_2026-09-24_00-01-09.jpg",
+    "condition_bn": "বমি বা বমি ভাব",
+    "condition_en": "Vomiting or Nausea",
+    "age_group": "3y-8y",
+    "protocol_variant": "Right",
+    "medicines": [
+      {
+        "form": "Syp.",
+        "name": "Emistat",
+        "strength": "",
+        "dosage": "১ চামচ x ৩ বার",
+        "duration": "৫ দিন",
+        "instructions": "খাবার আগে",
+        "is_sos": 0
+      },
+      {
+        "form": "Syp.",
+        "name": "Famotack",
+        "strength": "",
+        "dosage": "১ চামচ করে x রাতে",
+        "duration": "১০ দিন",
+        "instructions": "",
+        "is_sos": 0
+      }
+    ],
+    "general_instructions": ""
+  },
+  {
+    "photo_num": 45,
+    "photo_name": "photo_45_2026-09-24_00-01-09.jpg",
+    "condition_bn": "বমি ভাব বা বমি",
+    "condition_en": "Nausea or vomiting",
+    "age_group": "9y-13y",
+    "protocol_variant": "Left",
+    "medicines": [
+      {
+        "form": "Tab.",
+        "name": "Emistat",
+        "strength": "4mg",
+        "dosage": "১+১+১",
+        "duration": "৫ দিন",
+        "instructions": "খাবার আগে",
+        "is_sos": 0
+      },
+      {
+        "form": "Cap.",
+        "name": "Finix",
+        "strength": "10mg",
+        "dosage": "০+০+১",
+        "duration": "১০ দিন",
+        "instructions": "খাবার আগে",
+        "is_sos": 0
+      },
+      {
+        "form": "Powder",
+        "name": "ORS",
+        "strength": "",
+        "dosage": "প্রয়োজন মতো",
+        "duration": "",
+        "instructions": "খাবেন",
+        "is_sos": 0
+      }
+    ],
+    "general_instructions": ""
+  },
+  {
+    "photo_num": 45,
+    "photo_name": "photo_45_2026-09-24_00-01-09.jpg",
+    "condition_bn": "বমি ভাব বা বমি",
+    "condition_en": "Nausea or vomiting",
+    "age_group": "13y-17y",
+    "protocol_variant": "Right",
+    "medicines": [
+      {
+        "form": "Tab.",
+        "name": "Emistat",
+        "strength": "8mg",
+        "dosage": "১+১+১",
+        "duration": "৫ দিন",
+        "instructions": "খাবার আগে",
+        "is_sos": 0
+      },
+      {
+        "form": "Cap.",
+        "name": "Seclo",
+        "strength": "20mg",
+        "dosage": "১+০+১",
+        "duration": "১০ দিন",
+        "instructions": "খাবার আগে",
+        "is_sos": 0
+      },
+      {
+        "form": "Powder",
+        "name": "ORS",
+        "strength": "",
+        "dosage": "প্রয়োজন মতো",
+        "duration": "",
+        "instructions": "খাবেন",
+        "is_sos": 0
+      }
+    ],
+    "general_instructions": ""
+  },
+  {
+    "photo_num": 46,
+    "photo_name": "photo_46_2026-09-24_00-01-09.jpg",
+    "condition_bn": "বমি ভাব বা বমি",
+    "condition_en": "Nausea or vomiting",
+    "age_group": "18+",
+    "medicines": [
+      {
+        "form": "Tab.",
+        "name": "Emistat",
+        "strength": "8mg",
+        "dosage": "১+১+১",
+        "duration": "৫ দিন",
+        "instructions": "খাবার আগে",
+        "is_sos": 0
+      },
+      {
+        "form": "Tab.",
+        "name": "Nexum mups",
+        "strength": "20mg",
+        "dosage": "১+০+১",
+        "duration": "১০ দিন",
+        "instructions": "খাবার আগে",
+        "is_sos": 0
+      },
+      {
+        "form": "Powder",
+        "name": "ORS",
+        "strength": "",
+        "dosage": "প্রয়োজন মতো",
+        "duration": "",
+        "instructions": "খাবেন",
+        "is_sos": 0
+      }
+    ],
+    "general_instructions": ""
+  },
+  {
+    "photo_num": 47,
+    "photo_name": "photo_47_2026-09-24_00-01-09.jpg",
+    "condition_bn": "পেটে ব্যথা",
+    "condition_en": "Abdominal pain",
+    "age_group": "7m-2y",
+    "medicines": [
+      {
+        "form": "Syp.",
+        "name": "Algin",
+        "strength": "",
+        "dosage": "১/২ চামচ x ৩ বার",
+        "duration": "৫ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Syp.",
+        "name": "Famotack",
+        "strength": "",
+        "dosage": "১/২ চামচ x রাতে",
+        "duration": "১০ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Syp.",
+        "name": "Avolac",
+        "strength": "",
+        "dosage": "১/২ চামচ x ২ বার",
+        "duration": "",
+        "instructions": "পায়খানা কসা হলে খাবেন, পায়খানা নরম হলে বন্ধ",
+        "is_sos": 1
+      }
+    ],
+    "general_instructions": ""
+  },
+  {
+    "photo_num": 48,
+    "photo_name": "photo_48_2026-09-24_00-01-09.jpg",
+    "condition_bn": "পেটে ব্যথা",
+    "condition_en": "Abdominal pain",
+    "age_group": "3y-8y",
+    "medicines": [
+      {
+        "form": "Syp.",
+        "name": "Algin",
+        "strength": "",
+        "dosage": "১ চামচ x ৩ বার",
+        "duration": "৫ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Syp.",
+        "name": "Famotack",
+        "strength": "",
+        "dosage": "১ চামচ x রাতে",
+        "duration": "১০ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Syp.",
+        "name": "Avolac",
+        "strength": "",
+        "dosage": "১ চামচ x ২ বার",
+        "duration": "",
+        "instructions": "পায়খানা কসা হলে খাবেন, পায়খানা নরম হলে বন্ধ",
+        "is_sos": 1
+      }
+    ],
+    "general_instructions": ""
+  },
+  {
+    "photo_num": 49,
+    "photo_name": "photo_49_2026-09-24_00-01-09.jpg",
+    "condition_bn": "পেটে ব্যথা",
+    "condition_en": "Abdominal pain",
+    "age_group": "9y-13y",
+    "medicines": [
+      {
+        "form": "Tab.",
+        "name": "Algin",
+        "strength": "50mg",
+        "dosage": "১+১+১",
+        "duration": "৫ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Cap.",
+        "name": "Finix",
+        "strength": "10mg",
+        "dosage": "০+০+১",
+        "duration": "১০ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Syp.",
+        "name": "Avolac",
+        "strength": "",
+        "dosage": "২ চামচ x ২ বার",
+        "duration": "",
+        "instructions": "পায়খানা কসা হলে খাবেন, পায়খানা নরম হলে বন্ধ",
+        "is_sos": 1
+      },
+      {
+        "form": "Supp.",
+        "name": "Voltalin",
+        "strength": "25mg",
+        "dosage": "পায়ুনলে",
+        "duration": "",
+        "instructions": "অতিরিক্ত ব্যথা হলে",
+        "is_sos": 1
+      }
+    ],
+    "general_instructions": ""
+  },
+  {
+    "photo_num": 50,
+    "photo_name": "photo_50_2026-09-24_00-01-09.jpg",
+    "condition_bn": "পেটে ব্যথা",
+    "condition_en": "Abdominal pain",
+    "age_group": "14y-17y",
+    "medicines": [
+      {
+        "form": "Tab.",
+        "name": "Algin",
+        "strength": "50mg",
+        "dosage": "১+১+১",
+        "duration": "৫ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Cap.",
+        "name": "Seclo",
+        "strength": "20mg",
+        "dosage": "১+০+১",
+        "duration": "১০ দিন",
+        "instructions": "খাবার আগে",
+        "is_sos": 0
+      },
+      {
+        "form": "Syp.",
+        "name": "Avolac",
+        "strength": "",
+        "dosage": "২ চামচ x ৩ বার",
+        "duration": "",
+        "instructions": "পায়খানা কসা হলে খাবেন, পায়খানা নরম হলে বন্ধ",
+        "is_sos": 1
+      },
+      {
+        "form": "Supp.",
+        "name": "Voltalin",
+        "strength": "25mg",
+        "dosage": "পায়ুনলে",
+        "duration": "",
+        "instructions": "অতিরিক্ত ব্যথা হলে",
+        "is_sos": 1
+      }
+    ],
+    "general_instructions": ""
+  },
+  {
+    "photo_num": 51,
+    "photo_name": "photo_51_2026-09-24_00-01-09.jpg",
+    "condition_bn": "পেটে ব্যথা",
+    "condition_en": "Abdominal pain",
+    "age_group": "18+",
+    "medicines": [
+      {
+        "form": "Tab.",
+        "name": "Algin",
+        "strength": "50mg",
+        "dosage": "১+১+১",
+        "duration": "৫ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Cap.",
+        "name": "Sergel",
+        "strength": "20mg",
+        "dosage": "১+০+১",
+        "duration": "১০ দিন",
+        "instructions": "খাবার আগে",
+        "is_sos": 0
+      },
+      {
+        "form": "Tab.",
+        "name": "Sopilax",
+        "strength": "10mg",
+        "dosage": "০+০+১",
+        "duration": "৫ দিন",
+        "instructions": "পায়খানা নরম হলে বন্ধ",
+        "is_sos": 1
+      },
+      {
+        "form": "Supp.",
+        "name": "Voltalin",
+        "strength": "50mg",
+        "dosage": "পায়ুনলে",
+        "duration": "",
+        "instructions": "অতিরিক্ত ব্যথা হলে",
+        "is_sos": 1
+      }
+    ],
+    "general_instructions": ""
+  },
+  {
+    "photo_num": 52,
+    "photo_name": "photo_52_2026-09-24_00-01-09.jpg",
+    "condition_bn": "কাশি",
+    "condition_en": "Cough",
+    "age_group": "7m-2y",
+    "medicines": [
+      {
+        "form": "Tab.",
+        "name": "Monas",
+        "strength": "4mg",
+        "dosage": "০+০+১",
+        "duration": "১০ দিন",
+        "instructions": "চুষে খাবেন",
+        "is_sos": 0
+      },
+      {
+        "form": "Syp.",
+        "name": "Fexo",
+        "strength": "",
+        "dosage": "১/২ চামচ x রাতে",
+        "duration": "১০ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Syp.",
+        "name": "Mirakof",
+        "strength": "",
+        "dosage": "১/২ চামচ x ৩ বার",
+        "duration": "১০ দিন",
+        "instructions": "",
+        "is_sos": 0
+      }
+    ],
+    "general_instructions": "গরম পানি খাওয়াবেন"
+  },
+  {
+    "photo_num": 53,
+    "photo_name": "photo_53_2026-09-24_00-01-09.jpg",
+    "condition_bn": "কাশি",
+    "condition_en": "Cough",
+    "age_group": "3y-8y",
+    "medicines": [
+      {
+        "form": "Tab.",
+        "name": "Monas",
+        "strength": "4mg",
+        "dosage": "০+০+১",
+        "duration": "১০ দিন",
+        "instructions": "চুষে খাবেন (5y-8y বয়সে)",
+        "is_sos": 0
+      },
+      {
+        "form": "Syp.",
+        "name": "Fexo",
+        "strength": "",
+        "dosage": "১ চামচ x রাতে",
+        "duration": "১০ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Syp.",
+        "name": "Mirakof",
+        "strength": "",
+        "dosage": "১ চামচ x ৩ বার",
+        "duration": "১০ দিন",
+        "instructions": "",
+        "is_sos": 0
+      }
+    ],
+    "general_instructions": "গরম পানি খাবেন"
+  },
+  {
+    "photo_num": 54,
+    "photo_name": "photo_54_2026-09-24_00-01-09.jpg",
+    "condition_bn": "কাশি",
+    "condition_en": "Cough",
+    "age_group": "9y-13y",
+    "medicines": [
+      {
+        "form": "Tab.",
+        "name": "Monas",
+        "strength": "5mg",
+        "dosage": "০+০+১",
+        "duration": "১৫ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Tab.",
+        "name": "Fexo",
+        "strength": "60mg",
+        "dosage": "০+০+১",
+        "duration": "১০ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Syp.",
+        "name": "Mirakof",
+        "strength": "",
+        "dosage": "২ চামচ x ৩ বার",
+        "duration": "১০ দিন",
+        "instructions": "",
+        "is_sos": 0
+      }
+    ],
+    "general_instructions": "গরম পানি খাবেন"
+  },
+  {
+    "photo_num": 55,
+    "photo_name": "photo_55_2026-09-24_00-01-09.jpg",
+    "condition_bn": "কাশি",
+    "condition_en": "Cough",
+    "age_group": "18+",
+    "medicines": [
+      {
+        "form": "Tab.",
+        "name": "Fexo",
+        "strength": "120mg",
+        "dosage": "১+০+১",
+        "duration": "১০ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Tab.",
+        "name": "Monas",
+        "strength": "10mg",
+        "dosage": "০+০+১",
+        "duration": "১০ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Syp.",
+        "name": "Bukof",
+        "strength": "",
+        "dosage": "৩ চামচ x ৩ বার",
+        "duration": "১০ দিন",
+        "instructions": "",
+        "is_sos": 0
+      }
+    ],
+    "general_instructions": "গরম পানি খাবেন"
+  },
+  {
+    "photo_num": 56,
+    "photo_name": "photo_56_2026-09-24_00-01-09.jpg",
+    "condition_bn": "কাশি",
+    "condition_en": "Cough",
+    "age_group": "14y-17y",
+    "medicines": [
+      {
+        "form": "Tab.",
+        "name": "Fexo",
+        "strength": "120mg",
+        "dosage": "০+০+১",
+        "duration": "১০ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Tab.",
+        "name": "Monas",
+        "strength": "10mg",
+        "dosage": "০+০+১",
+        "duration": "১০ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Syp.",
+        "name": "Bukof",
+        "strength": "২ চামচ x ৩ বার",
+        "dosage": "২ চামচ x ৩ বার",
+        "duration": "১০ দিন",
+        "instructions": "",
+        "is_sos": 0
+      }
+    ],
+    "general_instructions": "গরম পানি খাবেন"
+  },
+  {
+    "photo_num": 57,
+    "photo_name": "photo_57_2026-09-24_00-01-09.jpg",
+    "condition_bn": "প্রস্রাবে ইনফেকশন",
+    "condition_en": "UTI",
+    "age_group": "3y-8y",
+    "medicines": [
+      {
+        "form": "Syp.",
+        "name": "Cefotil Plus",
+        "strength": "",
+        "dosage": "২ চামচ x ২ বার",
+        "duration": "৭ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Syp.",
+        "name": "Algin",
+        "strength": "",
+        "dosage": "১ চামচ x ৩ বার",
+        "duration": "৫ দিন",
+        "instructions": "পেটে ব্যথা হলে",
+        "is_sos": 1
+      },
+      {
+        "form": "Syp.",
+        "name": "Ace",
+        "strength": "",
+        "dosage": "২ চামচ x ৩ বার",
+        "duration": "৫ দিন",
+        "instructions": "",
+        "is_sos": 0
+      }
+    ],
+    "general_instructions": "প্রচুর পানি খাবেন"
+  },
+  {
+    "photo_num": 58,
+    "photo_name": "photo_58_2026-09-24_00-01-09.jpg",
+    "condition_bn": "প্রস্রাবে ইনফেকশন",
+    "condition_en": "UTI",
+    "age_group": "9y-13y",
+    "medicines": [
+      {
+        "form": "Tab.",
+        "name": "Cefotil Plus",
+        "strength": "250mg",
+        "dosage": "১+০+১",
+        "duration": "৭ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Tab.",
+        "name": "Algin",
+        "strength": "50mg",
+        "dosage": "১+১+১",
+        "duration": "",
+        "instructions": "পেটে ব্যথা হলে",
+        "is_sos": 1
+      },
+      {
+        "form": "Tab.",
+        "name": "Napa",
+        "strength": "500mg",
+        "dosage": "১+১+১",
+        "duration": "",
+        "instructions": "জ্বর বা ব্যথা হলে",
+        "is_sos": 1
+      },
+      {
+        "form": "Syp.",
+        "name": "Uriset",
+        "strength": "",
+        "dosage": "২ চামচ x ১/২ গ্লাস পানিতে মিশিয়ে দিনে ২ বার",
+        "duration": "১৪ দিন",
+        "instructions": "",
+        "is_sos": 0
+      }
+    ],
+    "general_instructions": ""
+  },
+  {
+    "photo_num": 59,
+    "photo_name": "photo_59_2026-09-24_00-01-09.jpg",
+    "condition_bn": "প্রস্রাবে ইনফেকশন",
+    "condition_en": "UTI",
+    "age_group": "14y-17y",
+    "medicines": [
+      {
+        "form": "Tab.",
+        "name": "Cefotil Plus",
+        "strength": "500mg",
+        "dosage": "১+০+১",
+        "duration": "৭ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Tab.",
+        "name": "Algin",
+        "strength": "50mg",
+        "dosage": "১+১+১",
+        "duration": "",
+        "instructions": "পেটে ব্যথা হলে",
+        "is_sos": 1
+      },
+      {
+        "form": "Tab.",
+        "name": "Napa",
+        "strength": "500mg",
+        "dosage": "১+১+১",
+        "duration": "",
+        "instructions": "জ্বর হলে",
+        "is_sos": 1
+      },
+      {
+        "form": "Syp.",
+        "name": "Uriset",
+        "strength": "",
+        "dosage": "২ চামচ x ১/২ গ্লাস পানিতে মিশিয়ে দিনে ২ বার",
+        "duration": "১৪ দিন",
+        "instructions": "",
+        "is_sos": 0
+      }
+    ],
+    "general_instructions": ""
+  },
+  {
+    "photo_num": 60,
+    "photo_name": "photo_60_2026-09-24_00-01-09.jpg",
+    "condition_bn": "প্রস্রাবে ইনফেকশন",
+    "condition_en": "UTI",
+    "age_group": "18+",
+    "medicines": [
+      {
+        "form": "Tab.",
+        "name": "Cefotil Plus",
+        "strength": "500mg",
+        "dosage": "১+০+১",
+        "duration": "৭ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Tab.",
+        "name": "Algin",
+        "strength": "50mg",
+        "dosage": "১+১+১",
+        "duration": "",
+        "instructions": "পেটে ব্যথা হলে",
+        "is_sos": 1
+      },
+      {
+        "form": "Tab.",
+        "name": "Napa Extend",
+        "strength": "",
+        "dosage": "১+১+১",
+        "duration": "",
+        "instructions": "জ্বর হলে",
+        "is_sos": 1
+      },
+      {
+        "form": "Syp.",
+        "name": "Uriset",
+        "strength": "",
+        "dosage": "২ চামচ x ১/২ গ্লাস পানির সাথে মিশিয়ে দিনে ২ বার",
+        "duration": "১৪ দিন",
+        "instructions": "",
+        "is_sos": 0
+      }
+    ],
+    "general_instructions": ""
+  },
+  {
+    "photo_num": 61,
+    "photo_name": "photo_61_2026-09-24_00-01-09.jpg",
+    "condition_bn": "বিছানায় প্রস্রাব",
+    "condition_en": "Nocturnal Enuresis",
+    "age_group": "9y-13y",
+    "protocol_variant": "Left",
+    "medicines": [
+      {
+        "form": "Tab.",
+        "name": "Depram",
+        "strength": "25mg",
+        "dosage": "০+০+১",
+        "duration": "২ মাস",
+        "instructions": "সন্ধ্যার পর পানি কম খাবেন",
+        "is_sos": 0
+      }
+    ],
+    "general_instructions": "সন্ধ্যার পর পানি কম খাবেন"
+  },
+  {
+    "photo_num": 61,
+    "photo_name": "photo_61_2026-09-24_00-01-09.jpg",
+    "condition_bn": "বিছানায় প্রস্রাব",
+    "condition_en": "Nocturnal Enuresis",
+    "age_group": "14y-18y",
+    "protocol_variant": "Right",
+    "medicines": [
+      {
+        "form": "Tab.",
+        "name": "Depram",
+        "strength": "25mg",
+        "dosage": "০+০+১",
+        "duration": "২ মাস",
+        "instructions": "সন্ধ্যার পর পানি কম খাবেন",
+        "is_sos": 0
+      }
+    ],
+    "general_instructions": "সন্ধ্যার পর পানি কম খাবেন"
+  },
+  {
+    "photo_num": 62,
+    "photo_name": "photo_62_2026-09-24_00-01-09.jpg",
+    "condition_bn": "গলা ব্যথা",
+    "condition_en": "Sore throat",
+    "age_group": "9y-13y",
+    "medicines": [
+      {
+        "form": "Cap.",
+        "name": "Doxin",
+        "strength": "50mg",
+        "dosage": "১+০+১",
+        "duration": "৭ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Tab.",
+        "name": "Fexo",
+        "strength": "60mg",
+        "dosage": "০+০+১",
+        "duration": "১০ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Tab.",
+        "name": "Napa",
+        "strength": "500mg",
+        "dosage": "১+১+১",
+        "duration": "৫ দিন",
+        "instructions": "",
+        "is_sos": 0
+      }
+    ],
+    "general_instructions": "গরম পানি খাবেন"
+  },
+  {
+    "photo_num": 63,
+    "photo_name": "photo_63_2026-09-24_00-01-09.jpg",
+    "condition_bn": "গলা ব্যথা",
+    "condition_en": "Sore throat",
+    "age_group": "14y-17y",
+    "medicines": [
+      {
+        "form": "Cap.",
+        "name": "Doxin",
+        "strength": "100mg",
+        "dosage": "১+০+১",
+        "duration": "৭ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Tab.",
+        "name": "Napa Rapid",
+        "strength": "",
+        "dosage": "১+১+১",
+        "duration": "৫ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Tab.",
+        "name": "Fexo",
+        "strength": "120mg",
+        "dosage": "০+০+১",
+        "duration": "১০ দিন",
+        "instructions": "",
+        "is_sos": 0
+      }
+    ],
+    "general_instructions": "গরম পানি খাবেন"
+  },
+  {
+    "photo_num": 64,
+    "photo_name": "photo_64_2026-09-24_00-01-09.jpg",
+    "condition_bn": "গলা ব্যথা",
+    "condition_en": "Sore throat",
+    "age_group": "18+",
+    "medicines": [
+      {
+        "form": "Tab.",
+        "name": "Napa Extend",
+        "strength": "",
+        "dosage": "১+১+১",
+        "duration": "৫ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Tab.",
+        "name": "Fexo",
+        "strength": "120mg",
+        "dosage": "০+০+১",
+        "duration": "১০ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Cap.",
+        "name": "Doxin",
+        "strength": "100mg",
+        "dosage": "১+০+১",
+        "duration": "৭ দিন",
+        "instructions": "",
+        "is_sos": 0
+      }
+    ],
+    "general_instructions": "গরম পানি খাবেন"
+  },
+  {
+    "photo_num": 65,
+    "photo_name": "photo_65_2026-09-24_00-01-09.jpg",
+    "condition_bn": "টনসিলের প্রদাহ",
+    "condition_en": "Acute tonsillitis",
+    "age_group": "7m-2y",
+    "medicines": [
+      {
+        "form": "Syp.",
+        "name": "Cefotil Plus",
+        "strength": "",
+        "dosage": "১ চামচ x ২ বার",
+        "duration": "৭ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Syp.",
+        "name": "Ace",
+        "strength": "",
+        "dosage": "১ চামচ x ৩ বার",
+        "duration": "৫ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Syp.",
+        "name": "Fexo",
+        "strength": "",
+        "dosage": "১/২ চামচ x রাতে",
+        "duration": "১০ দিন",
+        "instructions": "",
+        "is_sos": 0
+      }
+    ],
+    "general_instructions": "গরম পানি খাওয়াবেন"
+  },
+  {
+    "photo_num": 66,
+    "photo_name": "photo_66_2026-09-24_00-01-09.jpg",
+    "condition_bn": "টনসিলের প্রদাহ",
+    "condition_en": "Acute tonsillitis",
+    "age_group": "3y-8y",
+    "medicines": [
+      {
+        "form": "Syp.",
+        "name": "Cefotil Plus",
+        "strength": "",
+        "dosage": "১ ১/২ চামচ x ২ বার",
+        "duration": "৭ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Syp.",
+        "name": "Fexo",
+        "strength": "",
+        "dosage": "১ চামচ x রাতে",
+        "duration": "১০ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Syp.",
+        "name": "Ace",
+        "strength": "",
+        "dosage": "২ চামচ x ৩ বার",
+        "duration": "৫ দিন",
+        "instructions": "",
+        "is_sos": 0
+      }
+    ],
+    "general_instructions": "গরম পানি খাবেন"
+  },
+  {
+    "photo_num": 67,
+    "photo_name": "photo_67_2026-09-24_00-01-09.jpg",
+    "condition_bn": "টনসিলের প্রদাহ",
+    "condition_en": "Acute tonsillitis",
+    "age_group": "9y-13y",
+    "medicines": [
+      {
+        "form": "Tab.",
+        "name": "Cefotil Plus",
+        "strength": "250mg",
+        "dosage": "১+০+১",
+        "duration": "৭ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Tab.",
+        "name": "Fexo",
+        "strength": "60mg",
+        "dosage": "০+০+১",
+        "duration": "১০ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Tab.",
+        "name": "Napa",
+        "strength": "500mg",
+        "dosage": "১+১+১",
+        "duration": "৫ দিন",
+        "instructions": "",
+        "is_sos": 0
+      }
+    ],
+    "general_instructions": "গরম পানি খাবেন"
+  },
+  {
+    "photo_num": 68,
+    "photo_name": "photo_68_2026-09-24_00-01-09.jpg",
+    "condition_bn": "টনসিলের প্রদাহ",
+    "condition_en": "Acute tonsillitis",
+    "age_group": "14y-17y",
+    "medicines": [
+      {
+        "form": "Tab.",
+        "name": "Cefotil Plus",
+        "strength": "500mg",
+        "dosage": "১+০+১",
+        "duration": "৭ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Tab.",
+        "name": "Fexo",
+        "strength": "120mg",
+        "dosage": "০+০+১",
+        "duration": "১০ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Tab.",
+        "name": "Napa",
+        "strength": "500mg",
+        "dosage": "১+১+১",
+        "duration": "৫ দিন",
+        "instructions": "",
+        "is_sos": 0
+      }
+    ],
+    "general_instructions": "গরম পানি খাবেন"
+  },
+  {
+    "photo_num": 69,
+    "photo_name": "photo_69_2026-09-24_00-01-09.jpg",
+    "condition_bn": "টনসিলের প্রদাহ",
+    "condition_en": "Acute tonsillitis",
+    "age_group": "18+",
+    "medicines": [
+      {
+        "form": "Tab.",
+        "name": "Cefotil Plus",
+        "strength": "500mg",
+        "dosage": "১+০+১",
+        "duration": "৭ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Tab.",
+        "name": "Napa Extend",
+        "strength": "",
+        "dosage": "১+১+১",
+        "duration": "৫ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Tab.",
+        "name": "Fexo",
+        "strength": "120mg",
+        "dosage": "০+০+১",
+        "duration": "১০ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Cap.",
+        "name": "Seclo",
+        "strength": "20mg",
+        "dosage": "১+০+১",
+        "duration": "১০ দিন",
+        "instructions": "খাবার আগে",
+        "is_sos": 0
+      }
+    ],
+    "general_instructions": "গরম পানি খাবেন"
+  },
+  {
+    "photo_num": 70,
+    "photo_name": "photo_70_2026-09-24_00-01-09.jpg",
+    "condition_bn": "ফোঁড়া",
+    "condition_en": "Abscess/Boil",
+    "age_group": "3y-8y",
+    "medicines": [
+      {
+        "form": "Syp.",
+        "name": "Fluclox",
+        "strength": "",
+        "dosage": "১ চামচ x ৪ বার",
+        "duration": "৭ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Syp.",
+        "name": "Flamex",
+        "strength": "",
+        "dosage": "১ চামচ x ৩ বার",
+        "duration": "৫ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Tab.",
+        "name": "Ceevit",
+        "strength": "250mg",
+        "dosage": "১+০+১",
+        "duration": "১০ দিন",
+        "instructions": "চুষে খাবেন",
+        "is_sos": 0
+      }
+    ],
+    "general_instructions": ""
+  },
+  {
+    "photo_num": 71,
+    "photo_name": "photo_71_2026-09-24_00-01-09.jpg",
+    "condition_bn": "ফোঁড়া",
+    "condition_en": "Abscess/Boil",
+    "age_group": "9y-13y",
+    "medicines": [
+      {
+        "form": "Cap.",
+        "name": "Fluclox",
+        "strength": "250mg",
+        "dosage": "১+১+১+১",
+        "duration": "৭ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Tab.",
+        "name": "Esona",
+        "strength": "375mg",
+        "dosage": "১+০+১",
+        "duration": "৫ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Tab.",
+        "name": "Ceevit",
+        "strength": "250mg",
+        "dosage": "১+০+১",
+        "duration": "৭ দিন",
+        "instructions": "চুষে খাবেন",
+        "is_sos": 0
+      }
+    ],
+    "general_instructions": ""
+  },
+  {
+    "photo_num": 72,
+    "photo_name": "photo_72_2026-09-24_00-01-09.jpg",
+    "condition_bn": "ফোঁড়া",
+    "condition_en": "Abscess/Boil",
+    "age_group": "14-17y",
+    "medicines": [
+      {
+        "form": "Cap.",
+        "name": "Fluclox",
+        "strength": "500mg",
+        "dosage": "১+১+১+১",
+        "duration": "৭ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Tab.",
+        "name": "Neso",
+        "strength": "500mg",
+        "dosage": "১+০+১",
+        "duration": "৫ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Tab.",
+        "name": "Ceevit",
+        "strength": "250mg",
+        "dosage": "১+০+১",
+        "duration": "৭ দিন",
+        "instructions": "চুষে খাবেন",
+        "is_sos": 0
+      }
+    ],
+    "general_instructions": ""
+  },
+  {
+    "photo_num": 73,
+    "photo_name": "photo_73_2026-09-24_00-01-09.jpg",
+    "condition_bn": "ফোঁড়া",
+    "condition_en": "Abscess/Boil",
+    "age_group": "18+",
+    "medicines": [
+      {
+        "form": "Cap.",
+        "name": "Fluclox",
+        "strength": "500mg",
+        "dosage": "১+১+১+১",
+        "duration": "৭ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Tab.",
+        "name": "Rolac",
+        "strength": "10mg",
+        "dosage": "১+০+১",
+        "duration": "৫ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Cap.",
+        "name": "Seclo",
+        "strength": "20mg",
+        "dosage": "১+০+১",
+        "duration": "৭ দিন",
+        "instructions": "খাবার আগে",
+        "is_sos": 0
+      },
+      {
+        "form": "Tab.",
+        "name": "Ceevit",
+        "strength": "250mg",
+        "dosage": "১+০+১",
+        "duration": "৭ দিন",
+        "instructions": "চুষে খাবেন",
+        "is_sos": 0
+      }
+    ],
+    "general_instructions": ""
+  },
+  {
+    "photo_num": 74,
+    "photo_name": "photo_74_2026-09-24_00-01-09.jpg",
+    "condition_bn": "স্ক্যাবিস বা খোসপাঁচড়া",
+    "condition_en": "Scabies",
+    "age_group": "7m-2y",
+    "medicines": [
+      {
+        "form": "Cream/Lotion",
+        "name": "Elimate cream/Elimate Plus Lotion",
+        "strength": "",
+        "dosage": "১টি টিউবের সম্পূর্ণ মলম গলা থেকে পা পর্যন্ত মাখবেন",
+        "duration": "১ রাত (প্রয়োজনে ১ সপ্তাহ পর পুনরায় ১টি টিউব ১ রাতে)",
+        "instructions": "রাতে ১টি টিউবের সম্পূর্ণ মলম গলা থেকে পা পর্যন্ত মাখবেন। পরের দিন সকালে সাবান দিয়ে গোসল করবেন। ব্যবহার করা কাপড় গরম পানি দিয়ে ধোবেন।",
+        "is_sos": 0
+      },
+      {
+        "form": "Syp.",
+        "name": "Alatrol",
+        "strength": "",
+        "dosage": "১ চামচ x রাতে",
+        "duration": "১০ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Soap",
+        "name": "Permethrin Soap",
+        "strength": "",
+        "dosage": "প্রতিদিন গোসল করবেন",
+        "duration": "",
+        "instructions": "প্রতিদিন গোসল করবেন",
+        "is_sos": 0
+      }
+    ],
+    "general_instructions": "রাতে ১টি টিউবের সম্পূর্ণ মলম গলা থেকে পা পর্যন্ত মাখবেন। পরের দিন সকালে সাবান দিয়ে গোসল করবেন। ব্যবহার করা কাপড় গরম পানি দিয়ে ধোবেন। প্রয়োজনে ১ সপ্তাহ পর পুনরায় ১টি টিউব ১ রাতে মাখবেন।"
+  },
+  {
+    "photo_num": 75,
+    "photo_name": "photo_75_2026-09-24_00-01-09.jpg",
+    "condition_bn": "স্ক্যাবিস বা খোসপাঁচড়া",
+    "condition_en": "Scabies",
+    "age_group": "3y-8y",
+    "medicines": [
+      {
+        "form": "Cream/Lotion",
+        "name": "Elimate cream/Elimate Plus Lotion",
+        "strength": "",
+        "dosage": "১টি টিউবের সম্পূর্ণ মলম গলা থেকে পা পর্যন্ত মাখবেন",
+        "duration": "১ রাত (প্রয়োজনে ১ সপ্তাহ পর পুনরায় ১টি টিউব ১ রাতে)",
+        "instructions": "রাতে ১টি টিউবের সম্পূর্ণ মলম গলা থেকে পা পর্যন্ত মাখবেন। পরের দিন সকালে সাবান দিয়ে গোসল করবেন। ব্যবহার করা কাপড় গরম পানি দিয়ে ধোবেন।",
+        "is_sos": 0
+      },
+      {
+        "form": "Syp.",
+        "name": "Bilastin",
+        "strength": "",
+        "dosage": "১ চামচ x রাতে",
+        "duration": "১০ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Soap",
+        "name": "Permethrin Soap",
+        "strength": "",
+        "dosage": "প্রতিদিন গোসল করবেন",
+        "duration": "",
+        "instructions": "প্রতিদিন গোসল করবেন",
+        "is_sos": 0
+      }
+    ],
+    "general_instructions": "রাতে ১টি টিউবের সম্পূর্ণ মলম গলা থেকে পা পর্যন্ত মাখবেন। পরের দিন সকালে সাবান দিয়ে গোসল করবেন। ব্যবহার করা কাপড় গরম পানি দিয়ে ধোবেন। প্রয়োজনে ১ সপ্তাহ পর পুনরায় ১টি টিউব ১ রাতে মাখবেন।"
+  },
+  {
+    "photo_num": 76,
+    "photo_name": "photo_76_2026-09-24_00-01-09.jpg",
+    "condition_bn": "স্ক্যাবিস বা খোসপাঁচড়া",
+    "condition_en": "Scabies",
+    "age_group": "9y-13y",
+    "medicines": [
+      {
+        "form": "Cream/Lotion",
+        "name": "Elimate cream/Elimate Plus Lotion",
+        "strength": "",
+        "dosage": "১টি টিউবের সম্পূর্ণ মলম গলা থেকে পা পর্যন্ত মাখবেন",
+        "duration": "১ রাত (প্রয়োজনে ১ সপ্তাহ পর পুনরায় ১টি টিউব ১ রাতে)",
+        "instructions": "রাতে ১টি টিউবের সম্পূর্ণ মলম গলা থেকে পা পর্যন্ত মাখবেন। পরের দিন সকালে সাবান দিয়ে গোসল করবেন। ব্যবহার করা কাপড় গরম পানি দিয়ে ধোবেন।",
+        "is_sos": 0
+      },
+      {
+        "form": "Tab.",
+        "name": "Bilista",
+        "strength": "10mg",
+        "dosage": "০+০+১",
+        "duration": "১০ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Tab.",
+        "name": "Scabo",
+        "strength": "6mg",
+        "dosage": "০+০+১",
+        "duration": "১ম দিন ও ৭ম দিন",
+        "instructions": "১ম দিন এবং ৭ম দিন ১টি করে খাবেন",
+        "is_sos": 0
+      },
+      {
+        "form": "Soap",
+        "name": "Permethrin Soap",
+        "strength": "",
+        "dosage": "প্রতিদিন গোসল করবেন",
+        "duration": "",
+        "instructions": "প্রতিদিন গোসল করবেন",
+        "is_sos": 0
+      }
+    ],
+    "general_instructions": "রাতে ১টি টিউবের সম্পূর্ণ মলম গলা থেকে পা পর্যন্ত মাখবেন। পরের দিন সকালে সাবান দিয়ে গোসল করবেন। ব্যবহার করা কাপড় গরম পানি দিয়ে ধোবেন। প্রয়োজনে ১ সপ্তাহ পর পুনরায় ১টি টিউব ১ রাতে মাখবেন।"
+  },
+  {
+    "photo_num": 77,
+    "photo_name": "photo_77_2026-09-24_00-01-09.jpg",
+    "condition_bn": "স্ক্যাবিস বা খোসপাঁচড়া",
+    "condition_en": "Scabies",
+    "age_group": "14y-17y",
+    "medicines": [
+      {
+        "form": "Cream/Lotion",
+        "name": "Elimate cream/Elimate Plus Lotion",
+        "strength": "",
+        "dosage": "১টি টিউবের সম্পূর্ণ মলম গলা থেকে পা পর্যন্ত মাখবেন",
+        "duration": "১ রাত (প্রয়োজনে ১ সপ্তাহ পর পুনরায় ১টি টিউব ১ রাতে)",
+        "instructions": "রাতে ১টি টিউবের সম্পূর্ণ মলম গলা থেকে পা পর্যন্ত মাখবেন। পরের দিন সকালে সাবান দিয়ে গোসল করবেন। ব্যবহার করা কাপড় গরম পানি দিয়ে ধোবেন।",
+        "is_sos": 0
+      },
+      {
+        "form": "Tab.",
+        "name": "Bilastin",
+        "strength": "20mg",
+        "dosage": "০+০+১",
+        "duration": "১০ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Tab.",
+        "name": "Alice",
+        "strength": "12mg",
+        "dosage": "০+০+১",
+        "duration": "১ম দিন ও ৭ম দিন",
+        "instructions": "১ম দিন এবং ৭ম দিন ১টি করে খাবেন",
+        "is_sos": 0
+      },
+      {
+        "form": "Soap",
+        "name": "Permethrin Soap",
+        "strength": "",
+        "dosage": "প্রতিদিন গোসল করবেন",
+        "duration": "",
+        "instructions": "প্রতিদিন গোসল করবেন",
+        "is_sos": 0
+      }
+    ],
+    "general_instructions": "রাতে ১টি টিউবের সম্পূর্ণ মলম গলা থেকে পা পর্যন্ত মাখবেন। পরের দিন সকালে সাবান দিয়ে গোসল করবেন। ব্যবহার করা কাপড় গরম পানি দিয়ে ধোবেন। প্রয়োজনে ১ সপ্তাহ পর পুনরায় ১টি টিউব ১ রাতে মাখবেন।"
+  },
+  {
+    "photo_num": 78,
+    "photo_name": "photo_78_2026-09-24_00-01-09.jpg",
+    "condition_bn": "স্ক্যাবিস বা খোসপাঁচড়া",
+    "condition_en": "Scabies",
+    "age_group": "18+",
+    "medicines": [
+      {
+        "form": "Cream/Lotion",
+        "name": "Elimate cream/Elimate Plus Lotion",
+        "strength": "",
+        "dosage": "১টি টিউবের সম্পূর্ণ মলম গলা থেকে পা পর্যন্ত মাখবেন",
+        "duration": "১ রাত (প্রয়োজনে ১ সপ্তাহ পর পুনরায় ১টি টিউব ১ রাতে)",
+        "instructions": "রাতে ১টি টিউবের সম্পূর্ণ মলম গলা থেকে পা পর্যন্ত মাখবেন। পরের দিন সকালে সাবান দিয়ে গোসল করবেন। ব্যবহার করা কাপড় গরম পানি দিয়ে ধোবেন।",
+        "is_sos": 0
+      },
+      {
+        "form": "Tab.",
+        "name": "Bilastin",
+        "strength": "20mg",
+        "dosage": "০+০+১",
+        "duration": "১০ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Tab.",
+        "name": "Alice",
+        "strength": "12mg",
+        "dosage": "০+০+১",
+        "duration": "১ম দিন ও ৭ম দিন",
+        "instructions": "১ম দিন এবং ৭ম দিন ১টি করে খাবেন",
+        "is_sos": 0
+      },
+      {
+        "form": "Soap",
+        "name": "Permethrin Soap",
+        "strength": "",
+        "dosage": "প্রতিদিন গোসল করবেন",
+        "duration": "",
+        "instructions": "প্রতিদিন গোসল করবেন",
+        "is_sos": 0
+      }
+    ],
+    "general_instructions": "রাতে ১টি টিউবের সম্পূর্ণ মলম গলা থেকে পা পর্যন্ত মাখবেন। পরের দিন সকালে সাবান দিয়ে গোসল করবেন। ব্যবহার করা কাপড় গরম পানি দিয়ে ধোবেন। প্রয়োজনে ১ সপ্তাহ পর পুনরায় ১টি টিউব ১ রাতে মাখবেন।"
+  },
+  {
+    "photo_num": 79,
+    "photo_name": "photo_79_2026-09-24_00-01-09.jpg",
+    "condition_bn": "দাঁদ",
+    "condition_en": "Tenia corporis",
+    "age_group": "7m-2y",
+    "medicines": [
+      {
+        "form": "Syp.",
+        "name": "Itracon",
+        "strength": "",
+        "dosage": "১/২ চামচ x ২ বার",
+        "duration": "১৪ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Syp.",
+        "name": "Alatrol",
+        "strength": "",
+        "dosage": "১ চামচ x রাতে",
+        "duration": "১০ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Cream",
+        "name": "Lulider",
+        "strength": "",
+        "dosage": "আক্রান্ত স্থানে দিনে ২ বার",
+        "duration": "১৪ দিন",
+        "instructions": "আক্রান্ত স্থানে লাগাবেন",
+        "is_sos": 0
+      },
+      {
+        "form": "Soap",
+        "name": "Keto-p Soap",
+        "strength": "",
+        "dosage": "প্রতিদিন গোসল করবেন",
+        "duration": "",
+        "instructions": "প্রতিদিন গোসল করবেন",
+        "is_sos": 0
+      }
+    ],
+    "general_instructions": "প্রতিদিন গোসল করবেন"
+  },
+  {
+    "photo_num": 80,
+    "photo_name": "photo_80_2026-09-24_00-01-09.jpg",
+    "condition_bn": "দাঁদ",
+    "condition_en": "Tenia corporis",
+    "age_group": "3y-8y",
+    "medicines": [
+      {
+        "form": "Syp.",
+        "name": "Itracon",
+        "strength": "",
+        "dosage": "১ চামচ x ২ বার",
+        "duration": "১৪ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Syp.",
+        "name": "Bilastin",
+        "strength": "",
+        "dosage": "১ চামচ x রাতে",
+        "duration": "১০ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Cream",
+        "name": "Lulider",
+        "strength": "",
+        "dosage": "আক্রান্ত স্থানে দিনে ২ বার",
+        "duration": "১৪ দিন",
+        "instructions": "আক্রান্ত স্থানে লাগাবেন",
+        "is_sos": 0
+      },
+      {
+        "form": "Soap",
+        "name": "Keto-p Soap",
+        "strength": "",
+        "dosage": "প্রতিদিন গোসল করবেন",
+        "duration": "",
+        "instructions": "প্রতিদিন গোসল করবেন",
+        "is_sos": 0
+      }
+    ],
+    "general_instructions": "প্রতিদিন গোসল করবেন"
+  },
+  {
+    "photo_num": 81,
+    "photo_name": "photo_81_2026-09-24_00-01-09.jpg",
+    "condition_bn": "দাঁদ",
+    "condition_en": "Tenia corporis",
+    "age_group": "9y-13y",
+    "medicines": [
+      {
+        "form": "Cap.",
+        "name": "Flugal",
+        "strength": "50mg",
+        "dosage": "০+০+১",
+        "duration": "১৪ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Tab.",
+        "name": "Fexo",
+        "strength": "60mg",
+        "dosage": "০+০+১",
+        "duration": "১০ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Cream",
+        "name": "Lulider",
+        "strength": "",
+        "dosage": "আক্রান্ত স্থানে দিনে ২ বার",
+        "duration": "১৪ দিন",
+        "instructions": "আক্রান্ত স্থানে লাগাবেন",
+        "is_sos": 0
+      },
+      {
+        "form": "Soap",
+        "name": "Keto-p Soap",
+        "strength": "",
+        "dosage": "প্রতিদিন গোসল করবেন",
+        "duration": "",
+        "instructions": "প্রতিদিন গোসল করবেন",
+        "is_sos": 0
+      }
+    ],
+    "general_instructions": "প্রতিদিন গোসল করবেন"
+  },
+  {
+    "photo_num": 82,
+    "photo_name": "photo_82_2026-09-24_00-01-09.jpg",
+    "condition_bn": "দাঁদ",
+    "condition_en": "Tenia corporis",
+    "age_group": "14y-17y",
+    "medicines": [
+      {
+        "form": "Cap.",
+        "name": "Itracon",
+        "strength": "100mg",
+        "dosage": "১+০+১",
+        "duration": "১ মাস",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Tab.",
+        "name": "Fexo",
+        "strength": "120mg",
+        "dosage": "০+০+১",
+        "duration": "১৪ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Cream",
+        "name": "Lulider",
+        "strength": "",
+        "dosage": "আক্রান্ত স্থানে দিনে ২ বার",
+        "duration": "১ মাস",
+        "instructions": "আক্রান্ত স্থানে লাগাবেন",
+        "is_sos": 0
+      },
+      {
+        "form": "Soap",
+        "name": "Keto-p Soap",
+        "strength": "",
+        "dosage": "প্রতিদিন গোসল করবেন",
+        "duration": "",
+        "instructions": "প্রতিদিন গোসল করবেন",
+        "is_sos": 0
+      }
+    ],
+    "general_instructions": "প্রতিদিন গোসল করবেন"
+  },
+  {
+    "photo_num": 83,
+    "photo_name": "photo_83_2026-09-24_00-01-09.jpg",
+    "condition_bn": "দাঁদ",
+    "condition_en": "Tenia corporis",
+    "age_group": "18+",
+    "medicines": [
+      {
+        "form": "Cap.",
+        "name": "Itracon",
+        "strength": "100mg",
+        "dosage": "১+০+১",
+        "duration": "১ মাস",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Tab.",
+        "name": "Fexo",
+        "strength": "120mg",
+        "dosage": "০+০+১",
+        "duration": "১ মাস",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Cream",
+        "name": "Lulider",
+        "strength": "",
+        "dosage": "আক্রান্ত স্থানে দিনে ২ বার",
+        "duration": "১ মাস",
+        "instructions": "আক্রান্ত স্থানে লাগাবেন",
+        "is_sos": 0
+      },
+      {
+        "form": "Soap",
+        "name": "Keto-p Soap",
+        "strength": "",
+        "dosage": "প্রতিদিন গোসল করবেন",
+        "duration": "",
+        "instructions": "প্রতিদিন গোসল করবেন",
+        "is_sos": 0
+      }
+    ],
+    "general_instructions": "প্রতিদিন গোসল করবেন"
+  },
+  {
+    "photo_num": 84,
+    "photo_name": "photo_84_2026-09-24_00-01-09.jpg",
+    "condition_bn": "গ্যাস্ট্রাইটিস",
+    "condition_en": "Gastritis",
+    "age_group": "7m-2y",
+    "medicines": [
+      {
+        "form": "Syp.",
+        "name": "Famotack",
+        "strength": "",
+        "dosage": "১/২ চামচ x রাতে",
+        "duration": "১৫ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Syp.",
+        "name": "Algin",
+        "strength": "",
+        "dosage": "১/২ চামচ x ৩ বার",
+        "duration": "",
+        "instructions": "পেটে ব্যথা হলে",
+        "is_sos": 1
+      }
+    ],
+    "general_instructions": ""
+  },
+  {
+    "photo_num": 85,
+    "photo_name": "photo_85_2026-09-24_00-01-09.jpg",
+    "condition_bn": "গ্যাস্ট্রাইটিস",
+    "condition_en": "Gastritis",
+    "age_group": "3-8y",
+    "medicines": [
+      {
+        "form": "Syp.",
+        "name": "Famotack",
+        "strength": "",
+        "dosage": "১ চামচ x রাতে",
+        "duration": "১৫ দিন",
+        "instructions": "",
+        "is_sos": 0
+      },
+      {
+        "form": "Syp.",
+        "name": "Algin",
+        "strength": "",
+        "dosage": "১ চামচ x ৩ বার",
+        "duration": "",
+        "instructions": "পেটে ব্যাথা হলে",
+        "is_sos": 1
+      }
+    ],
+    "general_instructions": ""
+  },
+  {
+    "photo_num": 86,
+    "photo_name": "photo_86_2026-09-24_00-01-09.jpg",
+    "condition_bn": "গ্যাস্ট্রাইটিস",
+    "condition_en": "Gastritis",
+    "age_group": "14-17y",
+    "medicines": [
+      {
+        "form": "Cap.",
+        "name": "Sergel",
+        "strength": "20mg",
+        "dosage": "১+০+১",
+        "duration": "১ মাস",
+        "instructions": "খাবার ৩০ মিনিট পূর্বে",
+        "is_sos": 0
+      },
+      {
+        "form": "Tab.",
+        "name": "Algin",
+        "strength": "50mg",
+        "dosage": "১+১+১",
+        "duration": "",
+        "instructions": "পেটে ব্যথা হলে",
+        "is_sos": 1
+      }
+    ],
+    "general_instructions": ""
+  },
+  {
+    "photo_num": 87,
+    "photo_name": "photo_87_2026-09-24_00-01-09.jpg",
+    "condition_bn": "গ্যাস্ট্রাইটিস",
+    "condition_en": "Gastritis",
+    "age_group": "9-13y",
+    "medicines": [
+      {
+        "form": "Cap.",
+        "name": "Finix",
+        "strength": "10mg",
+        "dosage": "০+০+১",
+        "duration": "১৫ দিন",
+        "instructions": "খাবার ৩০ মিনিট পূর্বে",
+        "is_sos": 0
+      },
+      {
+        "form": "Tab.",
+        "name": "Algin",
+        "strength": "50mg",
+        "dosage": "১+১+১",
+        "duration": "",
+        "instructions": "পেটে ব্যথা হলে",
+        "is_sos": 1
+      }
+    ],
+    "general_instructions": ""
+  }
+]
