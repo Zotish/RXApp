@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react';
 import { useLocation, useNavigate } from 'react-router-dom';
-import { Languages, LogIn, LogOut, Menu, Settings, ShieldCheck, UserRound, X } from 'lucide-react';
+import { Download, Languages, LogIn, LogOut, Menu, Settings, ShieldCheck, UserRound, X } from 'lucide-react';
 import { useAuth } from '../../context/AuthContext';
 import { useVoice } from '../../context/VoiceContext';
 import { authAPI } from '../../services/api';
@@ -89,6 +89,17 @@ export default function Navbar({ language, setLanguage }) {
           ))}
 
           <button className="nav-link mobile-only-link" onClick={() => go('/about')}>{L('about')}</button>
+
+          <button
+            type="button"
+            className="nav-link nav-install-link"
+            onClick={() => window.dispatchEvent(new CustomEvent('veda-trigger-install'))}
+            title={bn ? 'অ্যাপ ইনস্টল করুন' : 'Install App'}
+            id="nav-install-app"
+          >
+            <Download size={16} />
+            <span>{bn ? 'অ্যাপ ইনস্টল' : 'Install App'}</span>
+          </button>
 
           {user?.role === 'admin' && (
             <button className="nav-link" onClick={() => go('/admin')} id="nav-admin">

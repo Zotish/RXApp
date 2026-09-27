@@ -1217,6 +1217,42 @@ export default function Settings({ language, setLanguage }) {
 
               </div>
             </div>
+
+            <div className="settings-card" style={{ marginTop: '20px' }}>
+              <div className="settings-card-header">
+                <div className="card-header-icon" style={{ background: '#E8F3EE', color: '#175C4B' }}>
+                  <Smartphone size={20} />
+                </div>
+                <div>
+                  <h3 className="card-title">{isBn ? 'Veda অ্যাপ ইনস্টল' : 'Install Veda App'}</h3>
+                  <p className="card-subtitle">
+                    {isBn
+                      ? 'অফলাইনে দ্রুত অ্যাক্সেস এবং ওষুধের রিমাইন্ডার পেতে আপনার ডিভাইসে ইনস্টল করুন'
+                      : 'Install on your phone or computer for instant offline access and notifications'}
+                  </p>
+                </div>
+              </div>
+
+              <div style={{ marginTop: '16px', display: 'flex', alignItems: 'center', justifyContent: 'space-between', flexWrap: 'wrap', gap: '12px' }}>
+                <div style={{ display: 'flex', alignItems: 'center', gap: '12px' }}>
+                  <img src="/pwa-192x192.png" alt="Veda" style={{ width: '48px', height: '48px', borderRadius: '12px', boxShadow: '0 4px 12px rgba(23,92,75,0.15)' }} />
+                  <div>
+                    <strong style={{ display: 'block', fontSize: '0.95rem', color: '#102E26' }}>Veda – The Ultimate Care</strong>
+                    <span style={{ fontSize: '0.8rem', color: '#687F77' }}>Progressive Web App (PWA)</span>
+                  </div>
+                </div>
+
+                <button
+                  type="button"
+                  className="btn btn-primary"
+                  onClick={() => window.dispatchEvent(new CustomEvent('veda-trigger-install'))}
+                  style={{ display: 'inline-flex', alignItems: 'center', gap: '8px', padding: '10px 18px', borderRadius: '10px' }}
+                >
+                  <Download size={16} />
+                  <span>{isBn ? 'ইনস্টল করুন' : 'Install Now'}</span>
+                </button>
+              </div>
+            </div>
           </motion.div>
         )}
 

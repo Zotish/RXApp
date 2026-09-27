@@ -1,0 +1,86 @@
+{
+  "name": "Veda – The Ultimate Care",
+  "short_name": "Veda",
+  "description": "A clear bilingual health companion for symptom guidance, first aid, nearby care and teleconsultation.",
+  "start_url": "/",
+  "scope": "/",
+  "id": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#FAF9F5",
+  "theme_color": "#175C4B",
+  "lang": "en",
+  "categories": ["health", "medical", "lifestyle"],
+  "icons": [
+    {
+      "src": "/pwa-64x64.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    },
+    {
+      "src": "/pwa-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/maskable-icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/maskable-icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "/veda-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Check Symptoms",
+      "short_name": "Symptoms",
+      "description": "Check your symptoms with voice & interactive guidance",
+      "url": "/symptom-checker",
+      "icons": [{ "src": "/pwa-192x192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "First Aid Emergency",
+      "short_name": "First Aid",
+      "description": "Step-by-step emergency first aid protocols",
+      "url": "/first-aid",
+      "icons": [{ "src": "/pwa-192x192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Nearby Hospitals",
+      "short_name": "Hospitals",
+      "description": "Find verified hospitals and emergency departments",
+      "url": "/nearby",
+      "icons": [{ "src": "/pwa-192x192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Teleconsultation",
+      "short_name": "Doctors",
+      "description": "Connect with certified doctors online",
+      "url": "/teleconsultation",
+      "icons": [{ "src": "/pwa-192x192.png", "sizes": "192x192" }]
+    }
+  ]
+}

@@ -8,6 +8,7 @@ import { VoiceProvider } from './context/VoiceContext';
 import VoiceAssistant from './components/VoiceAssistant/VoiceAssistant';
 import Navbar from './components/Navbar/Navbar';
 import BottomNav from './components/BottomNav/BottomNav';
+import InstallPrompt from './components/InstallPrompt/InstallPrompt';
 import Home from './pages/Home/Home';
 import SymptomChecker from './pages/SymptomChecker/SymptomChecker';
 import FirstAid from './pages/FirstAid/FirstAid';
@@ -115,6 +116,7 @@ export default function App() {
           </button>
           <BottomNav language={language} />
         </div>
+        <InstallPrompt language={language} />
         <VoiceAssistant language={language} />
       </VoiceProvider>
     </AuthProvider>
