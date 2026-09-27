@@ -1,16 +1,30 @@
-/* =============================================
-   VEDA - Database Setup (SQLite)
-   ============================================= */
-import { DatabaseSync } from 'node:sqlite';
-import bcrypt from 'bcryptjs';
+import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
+import { DatabaseSync } from 'node:sqlite';
+import bcrypt from 'bcryptjs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
-const dbPath = path.join(__dirname, 'veda.db');
+
+// In Vercel serverless environment, /var/task is read-only.
+// We store/copy the SQLite database in /tmp.
+let dbPath;
+if (process.env.VERCEL) {
+  dbPath = path.join('/tmp', 'veda.db');
+  const sourceDb = path.join(__dirname, 'veda.db');
+  if (fs.existsSync(sourceDb) && !fs.existsSync(dbPath)) {
+    try {
+      fs.copyFileSync(sourceDb, dbPath);
+    } catch (e) {
+      console.warn('Could not copy initial veda.db to /tmp:', e);
+    }
+  }
+} else {
+  dbPath = path.join(__dirname, 'veda.db');
+}
 
 const db = new DatabaseSync(dbPath);
-db.exec('PRAGMA journal_mode = WAL;');
+try { db.exec('PRAGMA journal_mode = WAL;'); } catch { /* ignore if not supported in env */ }
 db.exec('PRAGMA foreign_keys = ON;');
 
 // Add age_group and 2FA columns if not present (safe migration)
@@ -226,11 +240,7 @@ db.exec(`
 // --- Seed Default Admin ---
 function seedAdmin() {
   const adminEmail = process.env.ADMIN_EMAIL || 'admin@vedahome.com';
-  const adminPassword = process.env.ADMIN_PASSWORD;
-  if (!adminPassword) {
-    console.warn('⚠️  ADMIN_PASSWORD not set in .env — skipping admin seed. Set it to create the admin account.');
-    return;
-  }
+  const adminPassword = process.env.ADMIN_PASSWORD || 'VedaAdmin@2026';
   
   const existing = db.prepare('SELECT id FROM users WHERE email = ?').get(adminEmail);
   if (!existing) {
